@@ -16,14 +16,14 @@ Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">体力</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
 Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">電撃:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
-Mob/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} ({1:tooltip}毎秒)
-Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> {0:tooltip}毎秒
+Mob/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} (毎秒{1:tooltip})
+Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> 毎秒{0:tooltip}
 Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">超接続</c>
 Mob/Attribute/PollenHealth=<c val="{#Colors/health}">花粉の体力:</c> {0:tooltip}
 Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">花粉の攻撃力:</c> {0:tooltip}
 Mob/Attribute/MissileHealth=<c val="{#Colors/health}">ミサイルの体力:</c> {0:tooltip}
 Mob/Attribute/MissileDamage=<c val="{#Colors/damage}">ミサイルの攻撃力:</c> {0:tooltip}
-Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">ミサイルの毒:</c> {0:tooltip} ({1:tooltip}/s)
+Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">ミサイルの毒:</c> {0:tooltip} (毎秒{1:tooltip})
 Mob/Attribute/PearlHealth=<c val="{#Colors/health}">真珠の体力:</c> {0:tooltip}
 Mob/Attribute/PearlDamage=<c val="{#Colors/damage}">真珠の攻撃力:</c> {0:tooltip}
 Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">ミサイルの体力:</c> {0:tooltip}
@@ -43,13 +43,13 @@ Petal/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">電撃:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
-Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">回転速度:</c> +{0:tooltip}ラジアン毎秒
+Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">回転速度:</c> +毎秒{0:tooltip}ラジアン
 Petal/Attribute/Heal=<c val="{#Colors/heal}">回復:</c> {0:tooltip}
-Petal/Attribute/HealPerSecond=<c val="{#Colors/heal}">回復:</c> {0:tooltip}毎秒
+Petal/Attribute/HealPerSecond=<c val="{#Colors/heal}">回復:</c> 毎秒{0:tooltip}
 Petal/Attribute/HealPerc=<c val="{#Colors/heal}">回復割合:</c> {0:perc}%
-Petal/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} ({1:tooltip}毎秒)
-Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> {0:tooltip}毎秒
-Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">毒耐性:</c> {0:tooltip}毎秒
+Petal/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} (毎秒{1:tooltip})
+Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> 毎秒{0:tooltip}
+Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">毒耐性:</c> 毎秒{0:tooltip}
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">追加最大体力:</c> {0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">最大体力増加:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">効果時間:</c> {0:tooltipTime}
@@ -98,11 +98,11 @@ Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">外すことがで
 Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">死んだ時に花びらを失う。</c>
 Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">生きている間は外すことができない。</c>
 Petal/Attribute/Mana=<c val="{#Colors/mana}">マナ:</c> {0:tooltip}
-Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">マナ:</c> {0:tooltip}毎秒
+Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">マナ:</c> 毎秒{0:tooltip}
 Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">基礎最大マナ:</c> {0:tooltip}
 Petal/Attribute/MaxMana=<c val="{#Colors/mana}">最大マナ:</c> +{0:tooltip}
 Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">魔法の花びらを見つけられるようになる。</c>
 Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">ダメージ吸収:</c> {0:tooltip}毎<c val="{#Colors/mana}">マナ</c>
 Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}毎<c val="{#Colors/mana}">マナ</c>
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">召喚コスト:</c> {0:tooltip} <c val="{#Colors/mana}">マナ</c>
-Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">維持コスト:</c> {0:tooltip} <c val="{#Colors/mana}">マナ</c>毎秒
+Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">維持コスト:</c> 毎秒{0:tooltip} <c val="{#Colors/mana}">マナ</c>

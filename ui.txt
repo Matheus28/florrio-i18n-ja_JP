@@ -1,157 +1,156 @@
-UI/Language/Name=English (US)
-# These are the translators that worked on this translation. Separate with <n/>
-UI/Language/Credits=
+UI/Language/Name=日本語 (JP)
+UI/Language/Credits=fleepoint
 
-UI/Title/Loading=Loading...
-UI/Title/Connecting=Connecting...
-UI/Title/LoggingIn=Logging in...
+UI/Title/Loading=ロード中...
+UI/Title/Connecting=接続中...
+UI/Title/LoggingIn=ログインしています...
 UI/Title/Ready=Ready
-UI/Title/GuestName=Guest
-UI/Title/GuestLimitation=You can choose a nickname once you link an account or get level {0}.
-UI/Title/Name/Bad=Your nickname was reset, please choose a new one.
-UI/Title/Name/AlreadyTaken=Nickname already taken.
-UI/Title/Name/InternalError=Internal error, try again later.
+UI/Title/GuestName=ゲスト
+UI/Title/GuestLimitation=アカウントを同期するか、レベル{0}になると名前をつけられます。
+UI/Title/Name/Bad=あなたの名前がリセットされました、新しい名前を付けてください。
+UI/Title/Name/AlreadyTaken=名前は既に使われています。
+UI/Title/Name/InternalError=内部エラー、もう一度試してください。
 
 UI/Title/Biome={#UI/Title/Biome/{0}}
-UI/Title/Biome/0=Garden
-UI/Title/Biome/1=Desert
-UI/Title/Biome/2=Ocean
-UI/Title/Biome/3=Jungle
-UI/Title/Biome/4=Hel
+UI/Title/Biome/0=庭
+UI/Title/Biome/1=砂漠
+UI/Title/Biome/2=海
+UI/Title/Biome/3=ジャングル
+UI/Title/Biome/4=ヘル
 
-UI/Login/Title=Account
-UI/Login/PlayAsGuest=Play as guest
-UI/Login/SignInApple=Sign in with Apple
-UI/Login/SignInDiscord=Sign in with Discord
-UI/Login/Logout=Logout
-UI/Login/AccountID=Account ID:
-UI/Login/Connecting=(connecting)
-UI/Login/GuestName=Guest
-UI/Login/GuestInfo=If you already have a guest account in this device,<n/>signing in will link that account and keep your progress.
-UI/Login/LinkInfo=You can link your account to<n/>keep your progress across devices.
-UI/Login/Linked=Linked
-UI/Login/SupportPIN=Support PIN: {0}
-UI/Login/SupportPINHidden=Support PIN: (click to show)
-UI/Login/SupportPINInstructions1=Save this in case you lose access to your account
-UI/Login/SupportPINInstructions2=Do not share your support PIN with anyone
-UI/Login/Reminder=Link your account to save your progress
+UI/Login/Title=アカウント
+UI/Login/PlayAsGuest=ゲストとして遊ぶ
+UI/Login/SignInApple=アップルでサインインする
+UI/Login/SignInDiscord=ディスコードでサインインする
+UI/Login/Logout=ログアウト
+UI/Login/AccountID=アカウントID:
+UI/Login/Connecting=（接続中）
+UI/Login/GuestName=ゲスト
+UI/Login/GuestInfo=この端末でゲストアカウントを持っているなら、<n/>サインインすることでそのアカウントと進捗を保存できます。
+UI/Login/LinkInfo=アカウントと同期することであなたの進捗を端末間で保存できます。
+UI/Login/Linked=同期済み
+UI/Login/SupportPIN=サポートPIN: {0}
+UI/Login/SupportPINHidden=サポートPIN:（クリックで表示）
+UI/Login/SupportPINInstructions1=あなたがアカウントを失った場合に備えてこれを保存しておいてください。
+UI/Login/SupportPINInstructions2=誰にもサポートPINを共有しないでください。
+UI/Login/Reminder=あなたのアカウントに接続して進捗を保存します。
 
-UI/Social/Discord=Join our Discord community!
+UI/Social/Discord=私達のディスコードコミュニティに参加しよう！
 UI/Social/QQ=加入我们的QQ群!
 
-UI/AbandonGame=Abandon game
-UI/Reconnecting=Connection lost, reconnecting...
+UI/AbandonGame=ゲームをやめる
+UI/Reconnecting=切断されました、再接続しています...
 
-UI/LevelBar/Level=Lvl {0}
-UI/LevelBar/LevelLong=Lvl {0} Flower
-UI/LevelBar/XP={0}/{1} XP
+UI/LevelBar/Level=レベル {0}
+UI/LevelBar/LevelLong=レベル {0} の花
+UI/LevelBar/XP={0}/{1} 経験値
 
 UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
-UI/Scoreboard/Title/1=1 Flower
-UI/Scoreboard/Title/N={0} Flowers
+UI/Scoreboard/Title/1=1体の花
+UI/Scoreboard/Title/N={0}体の花
 UI/Scoreboard/HiddenName=Player #{0}
 
-UI/Chat/PromptTap=Tap here to chat
-UI/Chat/PromptClick=Click here to chat
-UI/Chat/PromptKeyboardOrClick=Press [ENTER] or click here to chat
-UI/Chat/Player/Block=Block
-UI/Chat/Player/ReportMessage=Report message
+UI/Chat/PromptTap=タップしてチャットする
+UI/Chat/PromptClick=クリックしてチャットする
+UI/Chat/PromptKeyboardOrClick=[ENTER]を押すかクリックしてチャットする
+UI/Chat/Player/Block=ブロック
+UI/Chat/Player/ReportMessage=メッセージを通報する
 
-UI/Flower/Level=Lvl {0}
+UI/Flower/Level=レベル {0}
 
-UI/Death/Title=You were destroyed by:
-UI/Death/NoSource=A mysterious entity
-UI/Death/Continue=Continue
-UI/Death/Close=Close
-UI/Death/CollectedThisRun=Collected this run
+UI/Death/Title=あなたは破壊された:
+UI/Death/NoSource=謎の存在
+UI/Death/Continue=続ける
+UI/Death/Close=閉じる
+UI/Death/CollectedThisRun=集めたもの
 
-UI/AFKCheck/Title=AFK Check
-UI/AFKCheck/Instructions=Drag the circle until the end
+UI/AFKCheck/Title=AFKチェック
+UI/AFKCheck/Instructions=丸を終点までドラッグしよう
 
-UI/Achievements/Title=Achievements
-UI/Achievements/Reward=Reward
+UI/Achievements/Title=実績
+UI/Achievements/Reward=報酬
 UI/Achievements/RewardTP={0} TP
-UI/Achievements/Done=Done
-UI/Achievements/Track=Track
-UI/Achievements/TrackAutomatically=Track automatically
+UI/Achievements/Done=完了
+UI/Achievements/Track=追跡
+UI/Achievements/TrackAutomatically=自動追跡
 UI/Achievements/Hidden=???
-UI/Achievements/TotalProgress={0}/{1} completed
+UI/Achievements/TotalProgress={0}/{1} 完了
 
-UI/MobGallery/Title=Mob Gallery
+UI/MobGallery/Title=生物図鑑
 
-UI/Changelog/Title=Changelog
-UI/Changelog/Bottom=Older changelog entries not available
+UI/Changelog/Title=変更履歴
+UI/Changelog/Bottom=古い変更履歴は利用できません。
 
-UI/Inventory/Title=Inventory
-UI/Inventory/Stack=Stack
-UI/Inventory/Instructions=Drag a petal to equip it
-UI/Inventory/Speed=Speed
+UI/Inventory/Title=インベントリ
+UI/Inventory/Stack=重ねる
+UI/Inventory/Instructions=花びらをドラッグして装備する
+UI/Inventory/Speed=スピード
 
-UI/Guild/Title=Guild
-UI/Guild/NoGuild=You don't have a guild yet
-UI/Guild/Invite=You've been invited to:
-UI/Guild/Invite/Button=Accept
-UI/Guild/Invite/Expiration=This invitation will expire soon if not accepted
-UI/Guild/ChatSetting=Chat
-UI/Guild/SquadButton=Squad
-UI/Guild/KickButton=Kick
-UI/Guild/Leader=(Leader)
+UI/Guild/Title=ギルド
+UI/Guild/NoGuild=あなたはまだギルドに入っていません。
+UI/Guild/Invite=あなたはギルドに招待されました:
+UI/Guild/Invite/Button=受け入れる
+UI/Guild/Invite/Expiration=この招待が受理されない場合は失効します
+UI/Guild/ChatSetting=チャット
+UI/Guild/SquadButton=スクワッド
+UI/Guild/KickButton=追放
+UI/Guild/Leader=（リーダー）
 UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
-UI/Guild/Members/1=Member (1)
-UI/Guild/Members/N=Members ({0})
-UI/Guild/LeaveButton=Leave
-UI/Guild/Leave/Title=Leave guild
-UI/Guild/Leave/Instructions=Are you sure?
-UI/Guild/Leave/Confirm=Leave
-UI/Guild/Leave/Cancel=Cancel
+UI/Guild/Members/1=メンバー（1）
+UI/Guild/Members/N=メンバー（{0}）
+UI/Guild/LeaveButton=脱退
+UI/Guild/Leave/Title=ギルドを脱退する
+UI/Guild/Leave/Instructions=本当に脱退しますか？
+UI/Guild/Leave/Confirm=脱退する
+UI/Guild/Leave/Cancel=留まる
 
-UI/Squad/Title=Squad
-UI/Squad/Error/NotAllowed=Squads not allowed in this mode
-UI/Squad/Error/Spam=You're doing that too much
-UI/Squad/Error/DoesNotExist=Squad does not exist
-UI/Squad/Error/CannotJoin=You can't join this squad
-UI/Squad/Error/LevelDifference=Your level isn't close enough to the squad level
-UI/Squad/Error/Full=Squad is full
+UI/Squad/Title=スクワッド
+UI/Squad/Error/NotAllowed=このモードではスクワッドは許可されていません
+UI/Squad/Error/Spam=あなたはチャットをし過ぎている
+UI/Squad/Error/DoesNotExist=スクワッドが存在しません
+UI/Squad/Error/CannotJoin=あなたはこのスクワッドに入ることができません
+UI/Squad/Error/LevelDifference=あなたとスクワッドのレベルが開きすぎています
+UI/Squad/Error/Full=スクワッドは満員です
 
-UI/Shop/Title=Shop
-UI/Shop/Button=Shop
-UI/Shop/Instructions=Today's offers:
-UI/Shop/TimeLeft=Store will change {0:timeLeft}
-UI/Shop/Lock=Lock
-UI/Shop/LockedChanged=Store will change once unlocked.
-UI/Shop/LockedNoChange=Store will not change while locked.
-UI/Shop/StarsHelp1=You gain stars by completing challenges, or you can
-UI/Shop/StarsHelp2=buy some by clicking the number on the right.
-UI/Shop/MustLink1=To make any purchases, you must first
-UI/Shop/MustLink2=link your account to Discord or Apple.
-UI/Shop/MustLinkCancel=Cancel
-UI/Shop/BuyStars/Instructions=In case of any issues with your purchase,<n/>please contact our payment processor:<n/>support@xsolla.com or live chat at xsolla.com.
-UI/Shop/BuyStars/Extra=I have too much money
-UI/Shop/BuyStars/Cancel=Cancel
-UI/Shop/BuyPetal/Title=Confirm
-UI/Shop/BuyPetal/Instructions=Are you sure you want to buy this?<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
-UI/Shop/BuyPetal/Cancel=Cancel
-UI/Shop/MagicPetalError/Title=Error
-UI/Shop/MagicPetalError/Instructions=You cannot buy magic petals<n/>until you have a {#Petals/{0}/FullName}.
-UI/Shop/MagicPetalError/Cancel=Cancel
-UI/Shop/Loyalty/Title=Thank you!
-UI/Shop/Loyalty/Instructions=As a thank you for your support,<n/>we'd like to give you some stars, for free.<n/><n/>This is the equivalent of what you'd have gotten had you spent<n/>the same amount of money you already did, but with larger packages.
-UI/Shop/Price/USD=${0}
+UI/Shop/Title=ショップ
+UI/Shop/Button=ショップ
+UI/Shop/Instructions=本日の品揃え:
+UI/Shop/TimeLeft=店は{0:timeLeft}後に変更されます。
+UI/Shop/Lock=固定
+UI/Shop/LockedChanged=固定を解除すると品揃えが変更されるようになります。
+UI/Shop/LockedNoChange=固定している間は品揃えが変更されません。
+UI/Shop/StarsHelp1=チャレンジを達成したり、
+UI/Shop/StarsHelp2=右の数字を押して購入することでスターを獲得できます。
+UI/Shop/MustLink1=ディスコードかアップルでアカウントを接続しなければ
+UI/Shop/MustLink2=購入することはできません。
+UI/Shop/MustLinkCancel=中止
+UI/Shop/BuyStars/Instructions=購入に関して問題がある場合は、弊社の支払い処理業者 support@xsolla.com まで連絡するか、xsolla.com でライブ チャットを利用してください。
+UI/Shop/BuyStars/Extra=お金が有り余っている
+UI/Shop/BuyStars/Cancel=中止
+UI/Shop/BuyPetal/Title=確定
+UI/Shop/BuyPetal/Instructions=本当にこれを購入しますか？<n/><c val="{#Colors/danger}">花びらの購入は返却できません。</c>
+UI/Shop/BuyPetal/Cancel=中止
+UI/Shop/MagicPetalError/Title=エラー
+UI/Shop/MagicPetalError/Instructions={#Petals/{0}/FullName}を手に入れるまで<n/>魔法の花びらを購入することはできません。
+UI/Shop/MagicPetalError/Cancel=中止
+UI/Shop/Loyalty/Title=ありがとう！
+UI/Shop/Loyalty/Instructions=支援への感謝として、スターを無料で差し上げます。<n/><n/>これは、これまでと同じ金額をより大きなパッケージで支払った場合に得られるものと同等です。
+UI/Shop/Price/USD={0}米ドル
 
-UI/DailyChallenge/Title=Challenge
-UI/DailyChallenge/Button=Challenge
-UI/DailyChallenge/Instructions=Defeat these enemies:
-UI/DailyChallenge/TimeLeft=Challenges will change {0:timeLeft}
-UI/DailyChallenge/Claimed=Claimed
-UI/DailyChallenge/SupportersOnly=Challenge available<n/>for supporters only.
+UI/DailyChallenge/Title=チャレンジ
+UI/DailyChallenge/Button=チャレンジ
+UI/DailyChallenge/Instructions=この敵を倒せ:
+UI/DailyChallenge/TimeLeft=チャレンジは{0:timeLeft}後に変更されます。
+UI/DailyChallenge/Claimed=獲得済み
+UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}
 UI/Petal/Description={#Petals/{0:base}/Description}
 UI/Petal/Rarity={#Rarities/{0:rarity}/Name}
-UI/Petal/Reload1={0}s
-UI/Petal/Reload2={0}s + {1}s
+UI/Petal/Reload1={0}秒
+UI/Petal/Reload2={0}秒 + {1}秒
 
 UI/Mob/Name={#Mobs/{0:base}/Name}
 UI/Mob/SortName={#Mobs/{0:base}/Name}
@@ -165,101 +164,101 @@ UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
 
-UI/Talent/Title=Talents
+UI/Talent/Title=能力
 UI/Talent/Name={#Talents/{0}/Name:1-}
 UI/Talent/Description={#Talents/{0}/Description:1-}
-UI/Talent/Rarity={#Rarities/{1}/Name}
+UI/Talent/Rarity={#Rarities/{0}/Name}
 UI/Talent/TP=TP
-UI/Talent/Tooltip=You can acquire more TP by leveling up
-UI/Talent/Reset=Reset
+UI/Talent/Tooltip=レベルが上がるとTPを獲得できます
+UI/Talent/Reset=リセット
 
-UI/Craft/Title=Craft
-UI/Craft/Button=Craft
-UI/Craft/Chance={0:perc}% success chance
-UI/Craft/UnknownChance=?% success chance
-UI/Craft/CombineInstructions=Combine {0} of the same petal to craft an upgrade
-UI/Craft/FailureInstructions=Failure will destroy {0}-{1} petals
+UI/Craft/Title=クラフト
+UI/Craft/Button=クラフト
+UI/Craft/Chance=成功確率 {0:perc}%
+UI/Craft/UnknownChance=成功確率 ?%
+UI/Craft/CombineInstructions=同じ花びらを{0}つ合わせることでアップグレードをクラフトできます
+UI/Craft/FailureInstructions=失敗すると{0}から{1}枚が破壊され失われます
 
-UI/Absorb/Title=Absorb
-UI/Absorb/Button=Absorb
-UI/Absorb/Instructions=Absorb petals to gain XP<n/><c val="{#Colors/danger}">WARNING: The petals will be destroyed in the process</c>
+UI/Absorb/Title=吸収
+UI/Absorb/Button=吸収
+UI/Absorb/Instructions=花びらを吸収して経験値を得られます<n/><c val="{#Colors/danger}">警告: その過程で花びらは破壊され失われます</c>
 
-UI/CoinCraft/Title=Trade
-UI/CoinCraft/Button=Trade
-UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
-UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
+UI/CoinCraft/Title=取引
+UI/CoinCraft/Button=取引
+UI/CoinCraft/Instruction=花びらを同じレアリティのコインと取引できます。
+UI/CoinCraft/Delay={0:timeLeft}後に再び取引できます。
 
-UI/OracleCraft/Title=Oracle
-UI/OracleCraft/Button=Craft
-UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
-UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
+UI/OracleCraft/Title=オラクル
+UI/OracleCraft/Button=クラフト
+UI/OracleCraft/Instruction=オラクルはそれに見合った対価でクラフトを保証します。
+UI/OracleCraft/Delay={0:timeLeft}後に再びクラフトできます。
 
-UI/Plinko/Title=Plinko
-UI/Plinko/Auto=Auto
+UI/Plinko/Title=プリンコ
+UI/Plinko/Auto=自動
 
-UI/UniqueCraft/Title=Forge
-UI/UniqueCraft/Button=Forge
-UI/UniqueCraft/Instructions=Unique petals will last until another player forges the same petal.<n/>When that happens, you will receive your Super petals back.<n/>The cost increases each time that petal is forged.
-UI/UniqueCraft/NoSupers=You do not have any Super petals to attempt this.
+UI/UniqueCraft/Title=鍛造
+UI/UniqueCraft/Button=鍛造
+UI/UniqueCraft/Instruction=他の誰かが同じ花びらを鍛造するまでUniqueの花びらを保持することができます。<n/>また、それが起こった際にあなたのスーパー花びらは返還されます。<n/>花びらが鍛造される度にそのコストは増えていきます。
+UI/UniqueCraft/NoSupers=これを試みるためのSuperの花びらを何も持っていない。
 
-UI/Death/Poison=Poison
+UI/Death/Poison=毒
 
-UI/Settings/Title=Settings
-UI/Settings/Game=Game
-UI/Settings/Graphics=Graphics
-UI/Settings/Controls=Controls
-UI/Settings/Credits=Credits
+UI/Settings/Title=設定
+UI/Settings/Game=ゲーム
+UI/Settings/Graphics=描画
+UI/Settings/Controls=操作
+UI/Settings/Credits=クレジット
 
-UI/Settings/Language=Language
-UI/Settings/Language/Warning=NOTE: will only take effect after game is restarted
-UI/Settings/Language/Automatic=Automatic
+UI/Settings/Language=言語
+UI/Settings/Language/Warning=注意: ページを再読み込みして反映します。
+UI/Settings/Language/Automatic=自動
 
-UI/Settings/Realm=Realm
+UI/Settings/Realm=領域
 UI/Settings/Realms={#UI/Settings/Realms/{0}}
-UI/Settings/Realms/0=Automatic
-UI/Settings/Realms/1=Juliett (US)
-UI/Settings/Realms/2=Romeo (EU)
-UI/Settings/Realms/3=Sierra (ASIA)
+UI/Settings/Realms/0=自動
+UI/Settings/Realms/1=ジュリエット（US）
+UI/Settings/Realms/2=ロメオ（EU）
+UI/Settings/Realms/3=シエラ（ASIA）
 
-UI/Settings/Chat=Chat
-UI/Settings/ChatWhispers=Chat Whispers
+UI/Settings/Chat=チャット
+UI/Settings/ChatWhispers=囁きチャット
 
-UI/Settings/AutoJoinSquads=Auto-join squads
+UI/Settings/AutoJoinSquads=スクワッドに自動加入する
 
-UI/Settings/HideOtherPetals=Hide other petals
+UI/Settings/HideOtherPetals=他のプレイヤーの花びらを表示しない
 
-UI/Settings/EquipDrops=Equip drops
+UI/Settings/EquipDrops=拾得物を装備する
 
-UI/Settings/Quality=Quality
-UI/Settings/Quality/Low=Low
-UI/Settings/Quality/Medium=Medium
-UI/Settings/Quality/High=High
+UI/Settings/Quality=品質
+UI/Settings/Quality/Low=低
+UI/Settings/Quality/Medium=中
+UI/Settings/Quality/High=高
 
-UI/Settings/ShowDamageNumbers=Show damage numbers
+UI/Settings/ShowDamageNumbers=ダメージ量を表示する
 
-UI/Settings/ScreenShake=Screen shake
+UI/Settings/ScreenShake=画面の揺れ
 
-UI/Settings/LiveIcons=Live icons
+UI/Settings/LiveIcons=花びらアイコンの同期
 
-UI/Settings/TouchControls=Touch controls
+UI/Settings/TouchControls=タッチ操作
 
-UI/Settings/KeyboardMovement=Keyboard movement
+UI/Settings/KeyboardMovement=キーボード移動
 
-UI/Settings/MovementHelper=Movement helper
+UI/Settings/MovementHelper=予測線
 
-UI/Settings/FixedJoystick=Fixed joystick
+UI/Settings/FixedJoystick=ジョイスティック固定
 
-UI/Settings/AutoSaveLoadout=Auto-save loadout
+UI/Settings/AutoSaveLoadout=装備を自動保存する
 
-UI/Settings/PrivacyPolicy=Privacy Policy
-UI/Settings/TermsOfService=Terms of Service
+UI/Settings/PrivacyPolicy=プライバシーポリシー
+UI/Settings/TermsOfService=利用規約
 
 UI/Credits/MadeBy=Made by {0}
-UI/Credits/SomeIcons=Some icons from {0}
-UI/Credits/SomeTiles=Some tiles from {0}
-UI/Credits/SpecialThanks=Special Thanks
-UI/Credits/Translators=Translators
+UI/Credits/SomeIcons={0}からアイコン
+UI/Credits/SomeTiles={0}からタイル
+UI/Credits/SpecialThanks=スペシャルサンクス
+UI/Credits/Translators=翻訳者
 
 # The little arrows around dead flowers
-UI/HelperText/Guild=Guild
-UI/HelperText/Squad=Squad
+UI/HelperText/Guild=ギルド
+UI/HelperText/Squad=スクワッド

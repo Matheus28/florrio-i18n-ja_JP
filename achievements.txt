@@ -1,426 +1,426 @@
-Achievements/0/Name=Tutorial
-Achievements/0/Description=Move a little bit.
-Achievements/0/ExtraDescription=Use your mouse to move. Your flower will automatically follow your cursor.<n/>You can change to keyboard movement in the settings menu.<n/><n/>Move a little bit to proceed.
+Achievements/0/Name=チュートリアル
+Achievements/0/Description=少し動く。
+Achievements/0/ExtraDescription=マウスを使って移動します。あなたの花がカーソルについて行きます。<n/>設定メニューでキーボード操作に切り替えることもできます。<n/><n/>辺りを少し動いてみましょう。
 
-Achievements/1/Name=Tutorial
-Achievements/1/Description=Kill a mob.
-Achievements/1/ExtraDescription=Those insects are your enemies. Destroying them has a chance of dropping new petals.<n/><n/>Find one and destroy it.<n/>You might find helpful to hold down your left mouse button to extend your petals.
+Achievements/1/Name=チュートリアル
+Achievements/1/Description=生き物を殺す。
+Achievements/1/ExtraDescription=あの昆虫達はあなたの敵です。彼らを破壊することで新しい花びらを落とすことがあります。<n/><n/>探して、破壊しましょう。<n/>マウスの左ボタンを押し続けると、あなたの花びらを拡大できて便利です。
 
-Achievements/2/Name=Tutorial
-Achievements/2/Description=Collect a petal.
-Achievements/2/ExtraDescription=Keep destroying enemies until they drop a petal, then get close to the petal to collect it.
+Achievements/2/Name=チュートリアル
+Achievements/2/Description=花びらを集める。
+Achievements/2/ExtraDescription=花びらを落とすまで彼らを破壊し続けましょう、花びらに近づくことで拾うことができます。
 
-Achievements/3/Name=Tutorial
-Achievements/3/Description=Equip a petal.
-Achievements/3/ExtraDescription=If you have space in your loadout when you collect a petal, it'll go there, otherwise it'll go to your inventory.<n/>Click the petal you just collected to equip it (or use the numeric hotkey for it).
+Achievements/3/Name=チュートリアル
+Achievements/3/Description=花びらを装備しよう。
+Achievements/3/ExtraDescription=装備欄に空きがあるなら、花びらを集めた時にその枠に、またはあなたのインベントリに収まります。<n/>ちょうど拾った花びらをクリックして装備してみましょう（または数字キーを押しましょう）。
 
 # Disabled
-Achievements/4/Name=Tutorial
-Achievements/4/Description=Collect more petals.
-Achievements/4/ExtraDescription=For the next step, we'll need a lot of petals.<n/>Keep destroying enemies and collecting petals.
+Achievements/4/Name=チュートリアル
+Achievements/4/Description=花びらをもっと集めよう。
+Achievements/4/ExtraDescription=次に進むためには、花びらが沢山必要です。<n/>敵を破壊し続け、花びらを集めましょう。
 
-Achievements/5/Name=Tutorial
-Achievements/5/Description=Get to level {0}.
-Achievements/5/ExtraDescription=To level up, just keep destroying some insects.
+Achievements/5/Name=チュートリアル
+Achievements/5/Description=レベル{0}に到達する。
+Achievements/5/ExtraDescription=レベルアップするために、いくつかの昆虫達を破壊し続けよう。
 
-Achievements/6/Name=Tutorial
-Achievements/6/Description=Use your talent point.
-Achievements/6/ExtraDescription=Use this new talent point you got to unlock any talent.<n/><n/>Remember you need to click and HOLD to upgrade a talent."
+Achievements/6/Name=チュートリアル
+Achievements/6/Description=能力ポイントを使う
+Achievements/6/ExtraDescription=手に入れた能力ポイントを使用して能力を解放しましょう。<n/><n/>押し続けて能力を強化します。
 
-Achievements/7/Name=Tutorial
-Achievements/7/Description=Collect some petals.
-Achievements/7/ExtraDescription=Now we need to collect {0} of the same {#Rarities/{1}/NameColored} petal to craft {#Rarities/{2}/Article} {#Rarities/{2}/NameColored} petal.<n/>Keep destroying some insects to collect a couple more petals.
+Achievements/7/Name=チュートリアル
+Achievements/7/Description=いくつかの花びらを集めよう。
+Achievements/7/ExtraDescription=さあ、{#Rarities/{2}/NameColored}の花びらをクラフトするために、同じ種類の{#Rarities/{1}/NameColored}の花びらを{0}枚集める必要があります。<n/>昆虫をいくつか破壊して、さらに花びらを集めましょう。
 
-Achievements/8/Name=Tutorial
-Achievements/8/Description=Craft a petal.
-Achievements/8/ExtraDescription=Now try to craft your first petal.<n/>Note that you might need to unequip some petals to have enough to do this craft.<n/>You need 5 of the same petal.<n/><n/>Don't worry, we loaded the dice for this one, it will succeed.
+Achievements/8/Name=チュートリアル
+Achievements/8/Description=花びらをクラフトしよう。
+Achievements/8/ExtraDescription=さあ、あなたの最初の花びらをクラフトしましょう。<n/>花びらの装備を外し、クラフトに使えるようにしなければならないかもしれません。<n/>5枚の同じ花びらが必要です。<n/><n/>心配しないで、賽を振っておいたので、必ず成功します。
 
-Achievements/9/Name=Tutorial
-Achievements/9/Description=Complete the tutorial.
+Achievements/9/Name=チュートリアル
+Achievements/9/Description=チュートリアルを完了する。
 
-Achievements/10/Name=Crafter
-Achievements/10/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/10/Name=作成者
+Achievements/10/Description={#Rarities/{0}/Name}の花びらをクラフトする。
 
-Achievements/11/Name=Crafter
-Achievements/11/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/11/Name=作成者
+Achievements/11/Description={#Rarities/{0}/Name}の花びらをクラフトする。
 
-Achievements/12/Name=Crafter
-Achievements/12/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/12/Name=作成者
+Achievements/12/Description={#Rarities/{0}/Name}の花びらをクラフトする。
 
-Achievements/13/Name=Crafter
-Achievements/13/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/13/Name=作成者
+Achievements/13/Description={#Rarities/{0}/Name}の花びらをクラフトする。
 
-Achievements/14/Name=Crafter
-Achievements/14/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/14/Name=作成者
+Achievements/14/Description={#Rarities/{0}/Name}の花びらをクラフトする。
 
-Achievements/15/Name=Crafter
-Achievements/15/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/15/Name=作成者
+Achievements/15/Description={#Rarities/{0}/Name}の花びらをクラフトする。
 
-Achievements/16/Name=Crafter
-Achievements/16/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name} petal.
+Achievements/16/Name=作成者
+Achievements/16/Description={#Rarities/{0}/Name}の花びらをクラフトする。
 
-Achievements/17/Name=Consolation prize
-Achievements/17/Description=Fail to craft a petal and lose {0} petals.
+Achievements/17/Name=残念賞
+Achievements/17/Description=クラフトに失敗し花びらを{0}枚失う。
 
-Achievements/18/Name=Consolation prize
-Achievements/18/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/18/Name=残念賞
+Achievements/18/Description={#Rarities/{1}/Name}の花びらのクラフトに失敗し花びらを{0}枚失う。
 
-Achievements/19/Name=Consolation prize
-Achievements/19/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.
+Achievements/19/Name=残念賞
+Achievements/19/Description={#Rarities/{1}/Name}の花びらのクラフトに失敗し花びらを{0}枚失う。
 
-Achievements/20/Name=Digger
-Achievements/20/Description=Equip a {#Petals/cutter/Name}.
+Achievements/20/Name=ディガー
+Achievements/20/Description={#Petals/cutter/Name}を装備する。
 
-Achievements/21/Name=Growing up
-Achievements/21/Description=Reach Level {0}.
+Achievements/21/Name=成長する
+Achievements/21/Description=レベル{0}に到達する。
 
-Achievements/22/Name=Growing up
-Achievements/22/Description=Reach Level {0}.
+Achievements/22/Name=成長する
+Achievements/22/Description=レベル{0}に到達する。
 
-Achievements/23/Name=Growing up
-Achievements/23/Description=Reach Level {0}.
+Achievements/23/Name=成長する
+Achievements/23/Description=レベル{0}に到達する。
 
-Achievements/24/Name=Growing up
-Achievements/24/Description=Reach Level {0}.
+Achievements/24/Name=成長する
+Achievements/24/Description=レベル{0}に到達する。
 
-Achievements/25/Name=Growing up
-Achievements/25/Description=Reach Level {0}.
+Achievements/25/Name=成長する
+Achievements/25/Description=レベル{0}に到達する。
 
-Achievements/26/Name=Growing up
-Achievements/26/Description=Reach Level {0}.
+Achievements/26/Name=成長する
+Achievements/26/Description=レベル{0}に到達する。
 
-Achievements/27/Name=Growing up
-Achievements/27/Description=Reach Level {0}.
+Achievements/27/Name=成長する
+Achievements/27/Description=レベル{0}に到達する。
 
-Achievements/28/Name=Wasteful Crafting
-Achievements/28/Description=Destroy {0:tooltip} petals in crafting attempts.
+Achievements/28/Name=ごみの山
+Achievements/28/Description=クラフトで{0:tooltip}枚の花びらを失う。
 
-Achievements/29/Name=High volume crafter
-Achievements/29/Description=Craft {0:tooltip} petals.
+Achievements/29/Name=大量作成者
+Achievements/29/Description=花びらを{0:tooltip}枚クラフトする。
 
-Achievements/30/Name=Desert
-Achievements/30/Description=Visit the desert.
+Achievements/30/Name=砂漠
+Achievements/30/Description=砂漠を訪れる。
 
-Achievements/31/Name=Ocean
-Achievements/31/Description=Visit the ocean.
+Achievements/31/Name=海
+Achievements/31/Description=海を訪れる。
 
-Achievements/32/Name=Welcome to the Jungle
-Achievements/32/Description=Visit the jungle.
+Achievements/32/Name=ジャングルへようこそ
+Achievements/32/Description=ジャングルを訪れる。
 
-Achievements/33/Name=Ant Hell
-Achievements/33/Description=Find out where all these pesky ants keep coming from.
+Achievements/33/Name=蟻地獄
+Achievements/33/Description=この厄介な蟻達がどこからやって来るのかを調べる。
 
-Achievements/34/Name=Sewers
-Achievements/34/Description=Find out where that pipe goes.
+Achievements/34/Name=下水道
+Achievements/34/Description=あの管がどこへ行くのかを調べよう。
 
-Achievements/35/Name=Conqueror
-Achievements/35/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/35/Name=勝者
+Achievements/35/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
-Achievements/36/Name=Conqueror
-Achievements/36/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/36/Name=勝者
+Achievements/36/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
-Achievements/37/Name=Conqueror
-Achievements/37/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/37/Name=勝者
+Achievements/37/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
-Achievements/38/Name=Conqueror
-Achievements/38/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/38/Name=勝者
+Achievements/38/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
-Achievements/39/Name=Conqueror
-Achievements/39/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/39/Name=勝者
+Achievements/39/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
-Achievements/40/Name=Conqueror
-Achievements/40/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/40/Name=勝者
+Achievements/40/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
-Achievements/41/Name=Conqueror
-Achievements/41/Description=Defeat your first {#Rarities/{0}/Name} mob.
+Achievements/41/Name=勝者
+Achievements/41/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
-Achievements/42/Name=Go to WHERE?!
-Achievements/42/Description=Visit the other plane.
+Achievements/42/Name=どこへ行くの？！
+Achievements/42/Description=別次元へ訪れる。
 
-Achievements/43/Name=Challenger
-Achievements/43/Description=Complete a challenge.
+Achievements/43/Name=挑戦者
+Achievements/43/Description=チャレンジを達成する。
 
-Achievements/44/Name=Challenger
-Achievements/44/Description=Complete {0} challenges.
+Achievements/44/Name=挑戦者
+Achievements/44/Description=チャレンジを{0}回達成する。
 
-Achievements/45/Name=Challenger
-Achievements/45/Description=Complete {0} challenges.
+Achievements/45/Name=挑戦者
+Achievements/45/Description=チャレンジを{0}回達成する。
 
-Achievements/46/Name=Challenger
-Achievements/46/Description=Complete {0} challenges.
+Achievements/46/Name=挑戦者
+Achievements/46/Description=チャレンジを{0}回達成する。
 
-Achievements/47/Name=Gear Up
-Achievements/47/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/47/Name=装備せよ
+Achievements/47/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
-Achievements/48/Name=Gear Up
-Achievements/48/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/48/Name=装備せよ
+Achievements/48/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
-Achievements/49/Name=Gear Up
-Achievements/49/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/49/Name=装備せよ
+Achievements/49/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
-Achievements/50/Name=Gear Up
-Achievements/50/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/50/Name=装備せよ
+Achievements/50/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
-Achievements/51/Name=Gear Up
-Achievements/51/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/51/Name=装備せよ
+Achievements/51/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
-Achievements/52/Name=Gear Up
-Achievements/52/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/52/Name=装備せよ
+Achievements/52/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
-Achievements/53/Name=Gear Up
-Achievements/53/Description=Equip {1} {#Rarities/{0}/Name} petals.
+Achievements/53/Name=装備せよ
+Achievements/53/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
-Achievements/54/Name=Summoner
-Achievements/54/Description=Spawn a friendly mob.
+Achievements/54/Name=召喚士
+Achievements/54/Description=友好的な生き物を生み出す。
 
-Achievements/55/Name=Summoner
-Achievements/55/Description=Spawn {0} friendly mobs.
+Achievements/55/Name=召喚士
+Achievements/55/Description=友好的な生き物を{0}体生み出す。
 
-Achievements/56/Name=Summoner
-Achievements/56/Description=Spawn {0} friendly mobs.
+Achievements/56/Name=召喚士
+Achievements/56/Description=友好的な生き物を{0}体生み出す。
 
-Achievements/57/Name=Summoner
-Achievements/57/Description=Spawn {0} friendly mobs.
+Achievements/57/Name=召喚士
+Achievements/57/Description=友好的な生き物を{0}体産み出す。
 
-Achievements/58/Name=Shiny!
-Achievements/58/Description=Destroy a shiny Ladybug
+Achievements/58/Name=眩しい！
+Achievements/58/Description=Shiny Ladybugを倒す。
 
-Achievements/59/Name=Wrong game
-Achievements/59/Description=Destroy a Square
+Achievements/59/Name=ゲームが違う
+Achievements/59/Description=Squareを倒す。
 
-Achievements/60/Name=Pain dealer
-Achievements/60/Description=Deal {0:tooltip} damage.
+Achievements/60/Name=サイコパス
+Achievements/60/Description=累計{0:tooltip}ダメージを与える。
 
-Achievements/61/Name=Pain dealer
-Achievements/61/Description=Deal {0:tooltip} damage.
+Achievements/61/Name=サイコパス
+Achievements/61/Description=累計{0:tooltip}ダメージを与える。
 
-Achievements/62/Name=Pain dealer
-Achievements/62/Description=Deal {0:tooltip} damage.
+Achievements/62/Name=サイコパス
+Achievements/62/Description=累計{0:tooltip}ダメージを与える。
 
-Achievements/63/Name=One-hit KO
-Achievements/63/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/63/Name=ワンパン
+Achievements/63/Description={#Rarities/{0}/Name}の生き物を一撃で倒す。
 
-Achievements/64/Name=One-hit KO
-Achievements/64/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/64/Name=ワンパン
+Achievements/64/Description={#Rarities/{0}/Name}の生き物を一撃で倒す。
 
-Achievements/65/Name=One-hit KO
-Achievements/65/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/65/Name=ワンパン
+Achievements/65/Description={#Rarities/{0}/Name}の生き物を一撃で倒す。
 
-Achievements/66/Name=One-hit KO
-Achievements/66/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/66/Name=ワンパン
+Achievements/66/Description={#Rarities/{0}/Name}の生き物を一撃で倒す。
 
-Achievements/67/Name=One-hit KO
-Achievements/67/Description=Destroy {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob in one hit.
+Achievements/67/Name=ワンパン
+Achievements/67/Description={#Rarities/{0}/Name}の生き物を一撃で倒す。
 
-Achievements/68/Name=Getting tanned
-Achievements/68/Description=Survive {0:time} in Hel.
+Achievements/68/Name=日焼けする
+Achievements/68/Description=ヘルで{0:time}生き延びる。
 
-Achievements/69/Name=Skill issue
-Achievements/69/Description=Find the dead dev flower.
+Achievements/69/Name=下手くそ
+Achievements/69/Description=開発者の死んだ花を見つける.
 
-Achievements/70/Name=Termites...?
-Achievements/70/Description=Spawn a friendly Termite.
+Achievements/70/Name=白蟻...？
+Achievements/70/Description=友好的な白蟻を生み出す。
 
-Achievements/71/Name=Pacifist
-Achievements/71/Description=Spend {0:time} admiring nature without destroying anything.
+Achievements/71/Name=平和主義者
+Achievements/71/Description=何も破壊することなく、自然に感嘆して{0:time}過ごす。
 
-Achievements/72/Name=Be gone
-Achievements/72/Description=Send a flower to Hel.
+Achievements/72/Name=失せろ
+Achievements/72/Description=花をヘルへ送る。
 
-Achievements/73/Name=Be gone
-Achievements/73/Description=Send {0} flowers to Hel.
+Achievements/73/Name=失せろ
+Achievements/73/Description={0}体の花をヘルへ送る。
 
-Achievements/74/Name=Saved
-Achievements/74/Description=Get revived.
+Achievements/74/Name=助かった
+Achievements/74/Description=蘇生される。
 
-Achievements/75/Name=Savior
-Achievements/75/Description=Revive a flower.
+Achievements/75/Name=救世主
+Achievements/75/Description=花を蘇生する。
 
-Achievements/76/Name=Savior
-Achievements/76/Description=Revive {0} flowers.
+Achievements/76/Name=救世主
+Achievements/76/Description={0}体の花を蘇生する。
 
-Achievements/77/Name=All-seeing
-Achievements/77/Description=Equip {#Petals/{0}/Name}.
+Achievements/77/Name=全てを見渡す
+Achievements/77/Description={#Petals/{0}/Name}を装備する。
 
-Achievements/78/Name=Return to sender
-Achievements/78/Description=Hit a mob with {#Petals/{0}/Name}.
+Achievements/78/Name=送り主に返送
+Achievements/78/Description={#Petals/{0}/Name}を生き物に当てる。
 
-Achievements/79/Name=Homewrecker
-Achievements/79/Description=Destroy an {#Mobs/{1}/Name}, {#Mobs/{2}/Name} or {#Mobs/{3}/Name}.
+Achievements/79/Name=家庭を壊す者
+Achievements/79/Description={#Mobs/{1}/Name}、{#Mobs/{2}/Name}、{#Mobs/{3}/Name}のいずれかを破壊する。
 
-Achievements/80/Name=Homewrecker
-Achievements/80/Description=Destroy {0} {#Mobs/{1}/Name}s, {#Mobs/{2}/Name}s or {#Mobs/{3}/Name}s.
+Achievements/80/Name=家庭を壊す者
+Achievements/80/Description={#Mobs/{1}/Name}、{#Mobs/{2}/Name}、{#Mobs/{3}/Name}を合計で{0}回破壊する。
 
-Achievements/81/Name=Bad
-Achievements/81/Description=Die.
+Achievements/81/Name=下手
+Achievements/81/Description=死ぬ。
 
-Achievements/82/Name=Bad
-Achievements/82/Description=Die {0} times.
+Achievements/82/Name=下手
+Achievements/82/Description={0}回死ぬ。
 
-Achievements/83/Name=Bad
-Achievements/83/Description=Die {0} times.
+Achievements/83/Name=下手
+Achievements/83/Description={0}回死ぬ。
 
-Achievements/84/Name=Serial killer
-Achievements/84/Description=Destroy {0} mobs within {1:time} of each other.
+Achievements/84/Name=連続殺人犯
+Achievements/84/Description={1:time}以上間隔を空けずに、生き物を{0}体倒す。
 
-Achievements/85/Name=Unkillable
-Achievements/85/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/85/Name=不死身
+Achievements/85/Description=死ぬことなく{#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/86/Name=Unkillable
-Achievements/86/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/86/Name=不死身
+Achievements/86/Description=死ぬことなく{#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/87/Name=Unkillable
-Achievements/87/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/87/Name=不死身
+Achievements/87/Description=死ぬことなく{#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/88/Name=Unkillable
-Achievements/88/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/88/Name=不死身
+Achievements/88/Description=死ぬことなく{#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/89/Name=Unkillable
-Achievements/89/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/89/Name=不死身
+Achievements/89/Description=死ぬことなく{#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/90/Name=Unkillable
-Achievements/90/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/90/Name=不死身
+Achievements/90/Description=死ぬことなく{#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/91/Name=Unkillable
-Achievements/91/Description=Destroy {0} {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/91/Name=不死身
+Achievements/91/Description=死ぬことなく{#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/92/Name=You're the dummy
-Achievements/92/Description=Die to a {#Mobs/{0}/Name}.
+Achievements/92/Name=あなたはダミーだ
+Achievements/92/Description={#Mobs/{0}/Name}で死ぬ。
 
-Achievements/93/Name=Genocide
-Achievements/93/Description=Destroy {0} mobs within {1:time}.
+Achievements/93/Name=虐殺
+Achievements/93/Description={1:time}以内に生き物を{0}体倒す。
 
-Achievements/94/Name=Rolling in dough
-Achievements/94/Description=Acquire {0} drops within {1:time}.
+Achievements/94/Name=荒稼ぎ
+Achievements/94/Description={1:time}以内に{0}個の拾得物を集める。
 
-Achievements/95/Name=Shiny Hunter
-Achievements/95/Description=Destroy {0} shiny Ladybugs within {1:time}.
+Achievements/95/Name=シャイニーハンター
+Achievements/95/Description={1:time}以内にShiny Ladybugを{0}体倒す。
 
-Achievements/96/Name=Super Hunter
-Achievements/96/Description=Destroy {0} {#Rarities/{1}/Name} mobs.
+Achievements/96/Name=スーパーハンター
+Achievements/96/Description={#Rarities/{1}/Name}の生き物を{0}体倒す。
 
-Achievements/97/Name=Sacrifice
-Achievements/97/Description=Die within {0:time} of reviving someone.
+Achievements/97/Name=身代わり
+Achievements/97/Description=誰かを蘇生してから{0:time}以内に死ぬ。
 
-Achievements/98/Name=Useless
-Achievements/98/Description=Get kill credit for a mob without dealing any damage to it.
+Achievements/98/Name=お荷物
+Achievements/98/Description=生き物に一切ダメージを与えずに拾得物を出す。
 
-Achievements/99/Name=Useless
-Achievements/99/Description=Get kill credit for {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without dealing any damage to it.
+Achievements/99/Name=お荷物
+Achievements/99/Description={#Rarities/{0}/Name}の生き物に一切ダメージを与えずに拾得物を出す。
 
-Achievements/100/Name=The lucky one
-Achievements/100/Description=Successfully craft {0} petals in a row.
+Achievements/100/Name=運が良かった
+Achievements/100/Description=花びらのクラフトに{0}連続で成功する。
 
-Achievements/101/Name=The unlucky one
-Achievements/101/Description=Fail to craft {0} petals in a row.
+Achievements/101/Name=運が悪かった
+Achievements/101/Description=花びらのクラフトに{0}連続で失敗する。
 
-Achievements/102/Name=Paper
-Achievements/102/Description=Die to a damage instance higher than your max hp.
+Achievements/102/Name=紙耐久
+Achievements/102/Description=あなたの最大体力より高いダメージを受けて死ぬ。
 
-Achievements/103/Name=Statue
-Achievements/103/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/103/Name=像
+Achievements/103/Description=ゲームを遊び始めてから、一歩も動かずに{#Rarities/{0}/Name}以上の生き物を倒す。
 
-Achievements/104/Name=Statue
-Achievements/104/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
+Achievements/104/Name=像
+Achievements/104/Description=ゲームを遊び始めてから、一歩も動かずに{#Rarities/{0}/Name}以上の生き物を倒す。
 
-Achievements/105/Name=Breath in, breath out
-Achievements/105/Description=Equip and unequip {#Petals/{0}/Name} many times
+Achievements/105/Name=吸って、吐いて
+Achievements/105/Description={#Petals/{0}/Name}を付けて、外してを沢山繰り返す。
 
-Achievements/106/Name=Sound barrier
-Achievements/106/Description=Move really fast.
+Achievements/106/Name=超音速
+Achievements/106/Description=本当に早く動く。
 
-Achievements/107/Name=Sound barrier
-Achievements/107/Description=Move even faster.
+Achievements/107/Name=超音速
+Achievements/107/Description=もっと早く動く。
 
-Achievements/108/Name=Biologist
-Achievements/108/Description=Destroy {0} different types of mobs without dying.
+Achievements/108/Name=生物学者
+Achievements/108/Description={0}種類の生き物を死なずに倒す。
 
-Achievements/109/Name=Collector
-Achievements/109/Description=Collect {0} different types of petals without dying.
+Achievements/109/Name=収集家
+Achievements/109/Description={0}種類の花びらを死ぬことなく集める。
 
-Achievements/110/Name=Touch grass
-Achievements/110/Description=Don't play the game for {0:time}.
+Achievements/110/Name=外に出ろ
+Achievements/110/Description={0:time}の間ゲームを遊ばない。
 
-Achievements/111/Name=Racecar
-Achievements/111/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/111/Name=レースカー
+Achievements/111/Description=庭、砂漠、ジャングル、海の順番で訪れ、庭に{0:time}以内に帰って来る。
 
-Achievements/112/Name=Racecar
-Achievements/112/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/112/Name=レースカー
+Achievements/112/Description=庭、砂漠、ジャングル、海の順番で訪れ、庭に{0:time}以内に帰って来る。
 
-Achievements/113/Name=Racecar
-Achievements/113/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/113/Name=レースカー
+Achievements/113/Description=庭、砂漠、ジャングル、海の順番で訪れ、庭に{0:time}以内に帰って来る。
 
-Achievements/114/Name=Racecar
-Achievements/114/Description=Visit Garden, Desert, Jungle, Ocean, then get back to Garden in less than {0:time}.
+Achievements/114/Name=レースカー
+Achievements/114/Description=庭、砂漠、ジャングル、海の順番で訪れ、庭に{0:time}以内に帰って来る。
 
-Achievements/115/Name=Biologist
-Achievements/115/Description=Destroy {0} different types of {#Rarities/{1}/Name}+ mobs without dying.
+Achievements/115/Name=生物学者
+Achievements/115/Description={0}種類の{#Rarities/{1}/Name}以上の生き物を死なずに倒す。
 
-Achievements/116/Name=Bad in every way
-Achievements/116/Description=Die to {0} different types of mobs.
+Achievements/116/Name=全てにおいて下手
+Achievements/116/Description={0}種類の生き物に倒される。
 
-Achievements/117/Name=Bad in every way
-Achievements/117/Description=Die to {0} different types of mobs.
+Achievements/117/Name=全てにおいて下手
+Achievements/117/Description={0}種類の生き物に倒される。
 
-Achievements/118/Name=Bad in every way
-Achievements/118/Description=Die to {0} different types of mobs.
+Achievements/118/Name=全てにおいて下手
+Achievements/118/Description={0}種類の生き物に倒される。
 
-Achievements/119/Name=Touched
-Achievements/119/Description=Touch the developer.
+Achievements/119/Name=触れた
+Achievements/119/Description=開発者に触れる。
 
-Achievements/120/Name=Evasive
-Achievements/120/Description=Evade {0:tooltip} damage.
+Achievements/120/Name=すばしっこい
+Achievements/120/Description={0:tooltip}ダメージを回避して無効化する。
 
-Achievements/121/Name=Evasive
-Achievements/121/Description=Evade {0:tooltip} damage.
+Achievements/121/Name=すばしっこい
+Achievements/121/Description={0:tooltip}ダメージを回避して無効化する。
 
-Achievements/122/Name=Evasive
-Achievements/122/Description=Evade {0:tooltip} damage.
+Achievements/122/Name=すばしっこい
+Achievements/122/Description={0:tooltip}ダメージを回避して無効化する。
 
-Achievements/123/Name=Devil's advocate
-Achievements/123/Description=While in Hel, destroy {0} flowers without dying.
+Achievements/123/Name=天邪鬼
+Achievements/123/Description=ヘルで{0}体の花を死なずに倒す。
 
-Achievements/124/Name=Hater
-Achievements/124/Description=Destroy {0} of the same type of mob in a row without dying.
+Achievements/124/Name=いじめっ子
+Achievements/124/Description=同じ種類の生き物を{0}体死なずに倒し続ける。
 
-Achievements/125/Name=Hater
-Achievements/125/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/125/Name=いじめっ子
+Achievements/125/Description=同じ種類の{#Rarities/{1}/Name}以上の生き物を{0}体死なずに倒し続ける。
 
-Achievements/126/Name=Hater
-Achievements/126/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/126/Name=いじめっ子
+Achievements/126/Description=同じ種類の{#Rarities/{1}/Name}以上の生き物を{0}体死なずに倒し続ける。
 
-Achievements/127/Name=Hater
-Achievements/127/Description=Destroy {0} of the same type of {#Rarities/{1}/Name}+ mob in a row without dying.
+Achievements/127/Name=いじめっ子
+Achievements/127/Description=同じ種類の{#Rarities/{1}/Name}以上の生き物を{0}体死なずに倒し続ける。
 
-Achievements/128/Name=Revenge
-Achievements/128/Description=Destroy the mob that killed you.
+Achievements/128/Name=復讐
+Achievements/128/Description=あなたを殺した生き物を倒す。
 
-Achievements/129/Name=Revenge
-Achievements/129/Description=Destroy the mob that killed you within {0:time} of your death.
+Achievements/129/Name=復讐
+Achievements/129/Description=あなたを殺した生き物を死んでから{0:time}以内に倒す。
 
-Achievements/130/Name=Trade
-Achievements/130/Description=Acquire a {#Petals/{0:base}/Name} through trade.
+Achievements/130/Name=トレード
+Achievements/130/Description={#Petals/{0:base}/Name}をトレードで手にいれる。
 
-Achievements/131/Name=Trade
-Achievements/131/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/131/Name=トレード
+Achievements/131/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をトレードで手にいれる。
 
-Achievements/132/Name=Trade
-Achievements/132/Description=Acquire {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name} through trade.
+Achievements/132/Name=トレード
+Achievements/132/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をトレードで手にいれる。
 
-Achievements/133/Name=Gambler
-Achievements/133/Description=Insert {0} Chips into Plinko.
+Achievements/133/Name=ギャンブラー
+Achievements/133/Description=チップを{0}枚Plinkoに挿れる。
 
-Achievements/134/Name=JACKPOT!
-Achievements/134/Description=Hit the Jackpot in Plinko.
+Achievements/134/Name=ジャックポット！
+Achievements/134/Description=Plinkoでジャックポットを当てる。
 
-Achievements/135/Name=High roller
-Achievements/135/Description=Insert {#Rarities/{0:rarity}/Article} {#Rarities/{0:rarity}/Name}+ {#Petals/{0:base}/Name} in Plinko.
+Achievements/135/Name=浪費家
+Achievements/135/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をPlinkoに挿れる。
 
-Achievements/136/Name=The all-seeing one
-Achievements/136/Description=Craft a petal using the Oracle.
+Achievements/136/Name=全てを見通す者
+Achievements/136/Description=オラクルを使って花びらをクラフトする。
 
-Achievements/137/Name=It was destiny
-Achievements/137/Description=Craft {#Rarities/{0}/Article} {#Rarities/{0}/Name}+ petal using the Oracle.
+Achievements/137/Name=それは運命だった
+Achievements/137/Description=オラクルを使って{#Rarities/{0}/Name}以上の花びらをクラフトする。
 
-Achievements/138/Name=Magician
-Achievements/138/Description=Equip an {#Petals/{0}/Name}.
+Achievements/138/Name=魔法使い
+Achievements/138/Description={#Petals/{0}/Name}を装備する。

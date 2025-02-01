@@ -1,374 +1,374 @@
 Petals/basic/Name=Basic
 Petals/basic/FullName=Basic
-Petals/basic/Description=A nice petal, not too strong but not too weak.
+Petals/basic/Description=強すぎず弱すぎず、素敵な花びら。
 
 Petals/light/Name=Light
 Petals/light/FullName=Light
-Petals/light/Description=Weaker than most petals, but recharges very quickly.
+Petals/light/Description=殆どの花びらより弱いが、とても早く再生する。
 
 Petals/rock/Name=Rock
 Petals/rock/FullName=Rock
-Petals/rock/Description=Extremely durable, but takes a bit longer to recharge.
+Petals/rock/Description=とても硬いが、再生に少し時間がかかる。
 
 Petals/square/Name=Square
 Petals/square/FullName=Square
-Petals/square/Description=This shape... it looks familiar...
+Petals/square/Description=この形...見覚えがある...
 
 Petals/rose/Name=Rose
 Petals/rose/FullName=Rose
-Petals/rose/Description=Its healing properties are amazing. Not so good at combat though.
+Petals/rose/Description=その回復力は素晴らしい。戦闘には向かないけど。
 
 Petals/stinger/Name=Stinger
 Petals/stinger/FullName=Stinger
-Petals/stinger/Description=It really hurts, but it's very fragile.
+Petals/stinger/Description=本当に痛いが、本当に脆い。
 
 Petals/iris/Name=Iris
 Petals/iris/FullName=Iris
-Petals/iris/Description=Very poisonous, but takes a little while to do its work.<n/>-50% damage vs other flowers.
+Petals/iris/Description=猛毒だが、効果が出るまで少し時間がかかる。<n/>他の花に対してはダメージ-50%。
 
 Petals/wing/Name=Wing
 Petals/wing/FullName=Wing
-Petals/wing/Description=It comes and goes.
+Petals/wing/Description=行ったり来たりする。
 
 Petals/missile/Name=Missile
 Petals/missile/FullName=Missile
-Petals/missile/Description=You can actually shoot this one.
+Petals/missile/Description=これは実際に撃てる。
 
 Petals/grapes/Name=Grapes
 Petals/grapes/FullName=Grapes
-Petals/grapes/Description=It goes poof. Now with a secret ingredient: poison.
+Petals/grapes/Description=パッと消える。毒という秘密の材料を加えて。
 
 Petals/cactus/Name=Cactus
 Petals/cactus/FullName=Cactus
-Petals/cactus/Description=Not very strong, but somehow increases your maximum health.
+Petals/cactus/Description=それほど強くないが、どうやってかあなたの最大体力を増やす。
 
 Petals/faster/Name=Faster
 Petals/faster/FullName=Faster
-Petals/faster/Description=It's so light it makes your other petals spin faster.
+Petals/faster/Description=とても軽くて、あなたの花びらの回転を早くする。
 
 Petals/bubble/Name=Bubble
 Petals/bubble/FullName=Bubble
-Petals/bubble/Description=Physics are for the weak.
+Petals/bubble/Description=物理で殴るのは弱者のやり方だ。
 
 Petals/pollen/Name=Pollen
 Petals/pollen/FullName=Pollen
-Petals/pollen/Description=Asthmatics beware.
+Petals/pollen/Description=花粉症に気を付けて。
 
 Petals/dandelion/Name=Dandelion
 Petals/dandelion/FullName=Dandelion
-Petals/dandelion/Description=Its interesting properties inhibits healing effects on affected units.<n/>Affected units have their healing reduced by 20%. Stacks with itself.
+Petals/dandelion/Description=その興味深い特性は、当てた個体の回復効果を封じる。<n/>当てた個体の回復効果を20%減少させる。この効果は重複する。
 
 Petals/beetle_egg/Name=Egg
 Petals/beetle_egg/FullName=Beetle Egg
-Petals/beetle_egg/Description=Something interesting might pop out of this.
+Petals/beetle_egg/Description=これから何か面白いものが出てくるかもしれない。
 
 Petals/antennae/Name=Antennae
 Petals/antennae/FullName=Antennae
-Petals/antennae/Description=Allows your flower to sense foes farther away.
+Petals/antennae/Description=あなたの花がより遠くの敵を感じ取れるようにする。
 
 Petals/heavy/Name=Heavy
 Petals/heavy/FullName=Heavy
-Petals/heavy/Description=This thing is so heavy that nothing gets in the way.<n/>Slows down petal rotation speed when equipped.
+Petals/heavy/Description=こいつは何の邪魔も入らないほど重い。<n/>装備した時に花びらの回転速度を遅くする。
 
 Petals/yin_yang/Name=Yin Yang
 Petals/yin_yang/FullName=Yin Yang
-Petals/yin_yang/Description=This mysterious petal affects the rotation of your petals in unpredictable ways.
+Petals/yin_yang/Description=この不思議な花びらはあなたの花びらの回転に予想だにしない影響を与える。
 
 Petals/web/Name=Web
 Petals/web/FullName=Web
-Petals/web/Description=It's really sticky.
+Petals/web/Description=本当に粘着する。
 
 Petals/honey/Name=Honey
 Petals/honey/FullName=Honey
-Petals/honey/Description=Mobs love this. Attracts them in a large radius.<n/>Mobs will prioritize this over flowers.<n/>Affected units develop immunity to its effects after some time.
+Petals/honey/Description=生き物はこれが大好き。広い範囲で彼らを誘き寄せる。<n/>生き物は花よりこれを優先する。<n/>効果に当てられた個体は、暫く後にその効果に対して耐性を持つようになる。
 
 Petals/leaf/Name=Leaf
 Petals/leaf/FullName=Leaf
-Petals/leaf/Description=Gathers energy from the sun to heal your flower passively.
+Petals/leaf/Description=太陽からエネルギーを集めて、あなたの花を徐々に回復する。
 
 Petals/salt/Name=Salt
 Petals/salt/FullName=Salt
-Petals/salt/Description=Reflects some of the damage you take back to the enemy that dealt it.<n/>Higher rarity mobs have higher resistance to damage reflection.
+Petals/salt/Description=あなたが受けたダメージの幾らかを、与えた敵に反射する。<n/>より高いレアリティの生き物はダメージ反射に対してより高い耐性を持つ。
 
 Petals/rice/Name=Rice
 Petals/rice/FullName=Rice
-Petals/rice/Description=Spawns very quickly, but not very strong.
+Petals/rice/Description=とても早く生成するが、それほど強くない。
 
 Petals/corn/Name=Corn
 Petals/corn/FullName=Corn
-Petals/corn/Description=Takes a long time to spawn, but has a lot of health.
+Petals/corn/Description=生成に長い時間をかける、しかし沢山の体力を持つ。
 
 Petals/sand/Name=Sand
 Petals/sand/FullName=Sand
-Petals/sand/Description=A bunch of sand particles.
+Petals/sand/Description=沢山の砂の粒子。
 
 Petals/pincer/Name=Pincer
 Petals/pincer/FullName=Pincer
-Petals/pincer/Description=Debilitates enemies temporarily, reducing their movement speed.
+Petals/pincer/Description=敵を一時的に衰弱させ、移動速度を減らす。
 
 Petals/yucca/Name=Yucca
 Petals/yucca/FullName=Yucca
-Petals/yucca/Description=Heals your flower but only while in the defensive position.
+Petals/yucca/Description=防御状態の時だけあなたの花を回復する。
 
 Petals/magnet/Name=Magnet
 Petals/magnet/FullName=Magnet
-Petals/magnet/Description=Increases drop pick up range.
+Petals/magnet/Description=拾得物の回収範囲を広げる。
 
 Petals/yggdrasil/Name=Yggdrasil
 Petals/yggdrasil/FullName=Yggdrasil
-Petals/yggdrasil/Description=A dried leaf from the Yggdrasil tree.<n/>Rumored to be able to bring the fallen back to life.
+Petals/yggdrasil/Description=世界樹の木からの乾いた葉。<n/>死者を甦らせることができると噂されている。
 
 Petals/starfish/Name=Starfish
 Petals/starfish/FullName=Starfish
-Petals/starfish/Description=Increases health regen while below 75% health.
+Petals/starfish/Description=体力が75%未満の時、再生能力が増加する。
 
 Petals/pearl/Name=Pearl
 Petals/pearl/FullName=Pearl
-Petals/pearl/Description=Just drop it off somewhere and use your kinetic powers so you don't lose it.
+Petals/pearl/Description=どこかに置こう、あなたの運動力を使えば失くさない。
 
 Petals/lightning/Name=Lightning
 Petals/lightning/FullName=Lightning
-Petals/lightning/Description=Strikes several nearby enemies.
+Petals/lightning/Description=近くの複数の敵に当たる。
 
 Petals/jelly/Name=Jelly
 Petals/jelly/FullName=Jelly
-Petals/jelly/Description=No one likes touching this.
+Petals/jelly/Description=誰もこれに触れようとは思わない。
 
 Petals/claw/Name=Claw
 Petals/claw/FullName=Claw
-Petals/claw/Description=Deals extra damage if the victim is above 80% health.<n/>-50% damage vs other flowers.
+Petals/claw/Description=当たった者の体力が80%以上の時に追加のダメージを与える。<n/>他の花に対してはダメージ-50%。
 
 Petals/shell/Name=Shell
 Petals/shell/FullName=Shell
-Petals/shell/Description=Adds a temporary shield to yourself or allies.
+Petals/shell/Description=自身または味方に一時的なシールドを付与する。
 
 Petals/cutter/Name=Cutter
 Petals/cutter/FullName=Cutter
-Petals/cutter/Description=A friend used to own this... now it's time for revenge.<n/>Increases body damage.
+Petals/cutter/Description=友達はこれを持っていた...今こそ復讐の時だ。<n/>体当たりダメージを増加する。
 
 Petals/dahlia/Name=Dahlia
 Petals/dahlia/FullName=Dahlia
-Petals/dahlia/Description=A small amount of heal but fairly consistent.
+Petals/dahlia/Description=少量の回復だが、より安定している。
 
 Petals/uranium/Name=Uranium
 Petals/uranium/FullName=Uranium
-Petals/uranium/Description=Periodically releases radiation.<n/>-75% damage versus other flowers.<n/>Effect strength depends on distance to petal.
+Petals/uranium/Description=断続的に放射線を放出する。<n/>他の花に対してはダメージ-75%。<n/>効果の強さは花びらからの距離に応じる。
 
 Petals/sponge/Name=Sponge
 Petals/sponge/FullName=Sponge
-Petals/sponge/Description=Spreads damage taken by the flower over a period of time.<n/>If destroyed, deals remaining damage all at once.<n/>Does not delay {#Attribute/PoisonNoColon} damage.
+Petals/sponge/Description=受けたダメージを一定時間にかけて分散する。<n/>壊された時、残りのダメージを一度に受ける。<n/>{#UI/Attribute/PoisonColored}ダメージは遅延できない。
 
 Petals/soil/Name=Soil
 Petals/soil/FullName=Soil
-Petals/soil/Description=Increases health, but also increases flower size and decreases movement speed.
+Petals/soil/Description=最大体力を増やすが、花が大きくなり移動速度が下がる。
 
 Petals/fangs/Name=Fangs
 Petals/fangs/FullName=Fangs
-Petals/fangs/Description=Heals based on damage dealt by this petal.
+Petals/fangs/Description=この花びらで与えたダメージに応じて回復する。
 
 Petals/third_eye/Name=Third Eye
 Petals/third_eye/FullName=Third Eye
-Petals/third_eye/Description=Allows your flower to expand your petals further out.
+Petals/third_eye/Description=あなたの花びらをより遠くまで拡大することができる。
 
 Petals/peas/Name=Peas
 Petals/peas/FullName=Peas
-Petals/peas/Description=It goes poof.
+Petals/peas/Description=パッと消える。
 
 Petals/stick/Name=Stick
 Petals/stick/FullName=Mysterious Stick
-Petals/stick/Description=A mysterious stick that summons the forces of the wind.
+Petals/stick/Description=風の力を呼び起こす不思議な枝。
 
 Petals/clover/Name=Clover
 Petals/clover/FullName=Clover
-Petals/clover/Description=Increases your luck.<n/>Luck is used by specific petals to change their stats.
+Petals/clover/Description=あなたの運を上げる。<n/>運は特定の花びらの強さを変える。
 
 Petals/powder/Name=Powder
 Petals/powder/FullName=Mysterious Powder
-Petals/powder/Description=Increases movement speed.<n/>Disabled if flower takes damage or if near a mob higher than a certain rarity.
+Petals/powder/Description=移動速度を上げる。<n/>花がダメージを受けたり、一定のレアリティ以上の生き物が近くに居ると無効になる。
 
 Petals/air/Name=Air
 Petals/air/FullName=Air
-Petals/air/Description=It's literally nothing.
+Petals/air/Description=それは文字通り何もない。
 
 Petals/basil/Name=Basil
 Petals/basil/FullName=Basil
-Petals/basil/Description=Increases all healing received.
+Petals/basil/Description=受ける全ての回復の量を増加させる。
 
 Petals/orange/Name=Orange
 Petals/orange/FullName=Orange
-Petals/orange/Description=A sweet citrus fruit.
+Petals/orange/Description=甘い柑橘系の果物。
 
 Petals/ant_egg/Name=Egg
 Petals/ant_egg/FullName=Ant Egg
-Petals/ant_egg/Description=Something interesting might pop out of this.
+Petals/ant_egg/Description=これから何か面白いものが出てくるかもしれない。
 
 Petals/poo/Name=Poo
 Petals/poo/FullName=Poo
-Petals/poo/Description=Makes mobs less likely to want to attack you.
+Petals/poo/Description=より生き物があなたを攻撃しようと思わなくなる。
 
 Petals/relic/Name=Relic
 Petals/relic/FullName=Mysterious Relic
-Petals/relic/Description=A strange relic. Significantly increases maximum health.<n/>Damage taken is spread among other wearers.
+Petals/relic/Description=奇妙な遺物。最大体力を大幅に増加させる。<n/>受けたダメージは周囲の他の装着者に分散する。
 
 Petals/lotus/Name=Lotus
 Petals/lotus/FullName=Lotus
-Petals/lotus/Description=Absorbs poison damage taken by the flower.
+Petals/lotus/Description=受ける{#UI/Attribute/PoisonColored}ダメージを吸収する。
 
 Petals/bulb/Name=Bulb
 Petals/bulb/FullName=Light Bulb
-Petals/bulb/Description=A shiny lightbulb. Draws aggro from mobs.
+Petals/bulb/Description=光る電球。生き物の敵意を引きつける。
 
 Petals/cotton/Name=Cotton
 Petals/cotton/FullName=Cotton
-Petals/cotton/Description=Absorbs damage taken by the flower.
+Petals/cotton/Description=受けるダメージを吸収する。
 
 Petals/carrot/Name=Carrot
 Petals/carrot/FullName=Carrot
-Petals/carrot/Description=Sturdy and reliable. Can be shot and bounces off walls.
+Petals/carrot/Description=頑丈で信頼できる。壁を反射して撃つことができる。
 
 Petals/bone/Name=Bone
 Petals/bone/FullName=Bone
-Petals/bone/Description=Sturdy.
+Petals/bone/Description=頑丈。
 
 Petals/plank/Name=Plank
 Petals/plank/FullName=Plank
-Petals/plank/Description=Does 20x damage vs projectiles and petals.
+Petals/plank/Description=発射物や花びらに対して20倍のダメージを与える。
 
 Petals/tomato/Name=Tomato
 Petals/tomato/FullName=Tomato
-Petals/tomato/Description=Gets stronger over time.
+Petals/tomato/Description=時間とともに強くなる。
 
 Petals/mark/Name=Mark
 Petals/mark/FullName=Dark Mark
-Petals/mark/Description=A dark mark that binds itself to a fallen soul.
+Petals/mark/Description=堕落した魂に結びつく暗い印。
 
 Petals/rubber/Name=Rubber
 Petals/rubber/FullName=Rubber
-Petals/rubber/Description=Increases knockback received. Also absorbs lightning damage dealt to the flower.
+Petals/rubber/Description=反発力が増加する。さらに花が受ける電撃ダメージを吸収する。
 
 Petals/blood_stinger/Name=Stinger
 Petals/blood_stinger/FullName=Blood Stinger
-Petals/blood_stinger/Description=It really hurts, but it's very fragile.<n/>Deals damage to self when spawned.
+Petals/blood_stinger/Description=本当に痛いが、本当に脆い。<n/>生成する時に自傷ダメージを受ける。
 
 Petals/bur/Name=Bur
 Petals/bur/FullName=Bur
-Petals/bur/Description=Decreases armor of affected unit. Does not stack with itself.
+Petals/bur/Description=当てた個体の防御力を下げる。<n/>その効果自体は重複しない。
 
 Petals/root/Name=Root
 Petals/root/FullName=Root
-Petals/root/Description=Provides additional armor but only while in the defensive position.
+Petals/root/Description=防御状態に限り追加の防御力を得られる。
 
 Petals/ankh/Name=Ankh
 Petals/ankh/FullName=Ankh
-Petals/ankh/Description=An ancient relic.<n/>When destroyed, will teleport the flower back to where it was destroyed.
+Petals/ankh/Description=古代の遺物。<n/>壊れた時、その場所に花が瞬間移動する。
 
 Petals/dice/Name=Dice
 Petals/dice/FullName=Dice
-Petals/dice/Description=Has a 5% chance of dealing 35x damage.<n/>Chance increases by 4% per point in luck.
+Petals/dice/Description=5%の確率で35倍のダメージを与える。<n/>確率は運1ポイント毎に4%上昇する。
 
 Petals/talisman/Name=Talisman
 Petals/talisman/FullName=Talisman of Evasion
-Petals/talisman/Description=A necklace that allows the wearer to anticipate enemy attacks.
+Petals/talisman/Description=敵の攻撃を予想できるようになる首飾り。
 
 Petals/battery/Name=Battery
 Petals/battery/FullName=Battery
-Petals/battery/Description=Discharges electricity whenever the flower gets hit.
+Petals/battery/Description=花が攻撃を受けた時に放電する。
 
 Petals/amulet/Name=Amulet
 Petals/amulet/FullName=Amulet
-Petals/amulet/Description=Converts a percentage of overheal into shields.
+Petals/amulet/Description=一定割合の過剰回復をシールドに変換する。
 
 Petals/compass/Name=Compass
 Petals/compass/FullName=Compass
-Petals/compass/Description=This crappy thing might be able to find something interesting...
+Petals/compass/Description=このくだらないものでも何か面白いものを見つけられるかもしれない...
 
 Petals/disc/Name=Disc
 Petals/disc/FullName=Disc
-Petals/disc/Description=Reduces damage taken from collisions with mobs and flowers.
+Petals/disc/Description=生き物や花との衝突ダメージを軽減する。
 
 Petals/shovel/Name=Shovel
 Petals/shovel/FullName=Shovel
-Petals/shovel/Description=Becomes untargetable but unable to use petals for a limited time.
+Petals/shovel/Description=短い間生き物に見つからなくなるが、花びらが使えなくなる。
 
 Petals/coin/Name=Coin
 Petals/coin/FullName=Coin
-Petals/coin/Description=The power of capitalism compels you!
+Petals/coin/Description=資本主義の力があなたを駆り立てる！
 
 Petals/chip/Name=Chip
 Petals/chip/FullName=Poker Chip
-Petals/chip/Description=ALL IN.
+Petals/chip/Description=オールイン。
 
 Petals/card/Name=Card
 Petals/card/FullName=Card
-Petals/card/Description=A playing card. Likely marked.
+Petals/card/Description=トランプ。マークがあると思われる。
 
 Petals/moon/Name=Moon
 Petals/moon/FullName=Moon Rock
-Petals/moon/Description=This thing is so big your petals orbit it instead.<n/>Where did you find this anyway?
+Petals/moon/Description=こいつはとても大きく、あなたの花びらがそれを周回する。<n/>結局これをどこで見つけたんだ？
 
 Petals/privet/Name=Privet
 Petals/privet/FullName=Privet Berry
-Petals/privet/Description=Deals extra {#Attribute/PoisonNoColon} damage based on the existing {#Attribute/PoisonNoColon} damage per second.
+Petals/privet/Description=与えている{#UI/Attribute/PoisonColored}ダメージ毎秒に応じて追加の{#UI/Attribute/PoisonColored}ダメージを与える。
 
 Petals/glass/Name=Glass
 Petals/glass/FullName=Glass
-Petals/glass/Description=Phases through enemies.<n/>Cannot damage enemies more often than a certain interval.
+Petals/glass/Description=敵をすり抜ける。一定時間に1回以上頻繁にダメージを与えられない。
 
 Petals/corruption/Name=Corruption
 Petals/corruption/FullName=Corruption
-Petals/corruption/Description=Corrupts one's soul, turning them against their own kind.
+Petals/corruption/Description=魂を堕落させ、同類に敵対的にする。
 
 Petals/orb/Name=Orb
 Petals/orb/FullName=Mana Orb
-Petals/orb/Description=Creates mana.
+Petals/orb/Description=マナをつくりだす。
 
 Petals/blueberries/Name=Blueberries
 Petals/blueberries/FullName=Blueberries
-Petals/blueberries/Description=It goes poof. Now with the extra secret ingredient: lightning.
+Petals/blueberries/Description=パッと消える。電撃という更なる秘密の材料を加えて。
 
 Petals/magic_cotton/Name=Cotton
 Petals/magic_cotton/FullName=Magic Cotton
-Petals/magic_cotton/Description=Absorbs damage taken by the flower.
+Petals/magic_cotton/Description=受けるダメージを吸収する。
 
 Petals/magic_stinger/Name=Stinger
 Petals/magic_stinger/FullName=Magic Stinger
-Petals/magic_stinger/Description=It really hurts, but it's very fragile.
+Petals/magic_stinger/Description=本当に痛いが、本当に脆い。
 
 Petals/magic_leaf/Name=Leaf
 Petals/magic_leaf/FullName=Magic Leaf
-Petals/magic_leaf/Description=Gathers mana from the environment passively.
+Petals/magic_leaf/Description=環境からマナを徐々に集める。
 
 Petals/magic_cactus/Name=Cactus
 Petals/magic_cactus/FullName=Magic Cactus
-Petals/magic_cactus/Description=Increases maximum mana capacity.
+Petals/magic_cactus/Description=最大マナ容量が増加する。
 
 Petals/magic_eye/Name=Magic Eye
 Petals/magic_eye/FullName=Magic Eye
-Petals/magic_eye/Description=Consumes half the current mana and deals damage based on that value.
+Petals/magic_eye/Description=現在のマナの半分を消費し、その量に応じたダメージを与える。
 
 Petals/magic_missile/Name=Missile
 Petals/magic_missile/FullName=Magic Missile
-Petals/magic_missile/Description=You can actually shoot this one... with magic.
+Petals/magic_missile/Description=これは実際に撃てる...魔法で。
 
 Petals/magic_stick/Name=Stick
 Petals/magic_stick/FullName=Magic Stick
-Petals/magic_stick/Description=A mysterious stick that summons the forces of the wind... with magic.
+Petals/magic_stick/Description=風の力を呼び起こす不思議な枝...魔法で。
 
 Petals/coral/Name=Coral
 Petals/coral/FullName=Coral
-Petals/coral/Description=Breaks apart on impact.<n/>Each piece has 50% of the stats of the predecessor.
+Petals/coral/Description=衝撃でバラバラになる。<n/>各片の強さは分裂元の50%になる。
 
 Petals/magic_bubble/Name=Bubble
 Petals/magic_bubble/FullName=Magic Bubble
-Petals/magic_bubble/Description=Physics are for the magicless.
+Petals/magic_bubble/Description=物理で殴るのは魔法のない者のやり方だ。
 
 Petals/nazar/Name=Nazar
 Petals/nazar/FullName=Nazar Amulet
-Petals/nazar/Description=Reduces one damage instance damage by 98%.
+Petals/nazar/Description=一度だけ受けるダメージを98%軽減する。
 
 Petals/mimic/Name=Mimic
 Petals/mimic/FullName=Mimic
-Petals/mimic/Description=Copies the petal to the left of this, with the same rarity as this.
+Petals/mimic/Description=この左にある花びらを複製する、これと同じレアリティで。
 
 Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
 Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
@@ -376,12 +376,12 @@ Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
 
 Petals/mjolnir/not-unique/Name=Fragment
 Petals/mjolnir/not-unique/FullName=Fragment
-Petals/mjolnir/not-unique/Description=Perhaps this could be used to forge something great?
+Petals/mjolnir/not-unique/Description=恐らくこれを偉大なものに鍛造できる？
 
 Petals/mjolnir/unique/Name=Mjölnir
 Petals/mjolnir/unique/FullName=Mjölnir
-Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
+Petals/mjolnir/unique/Description=唯一無二の宇宙で最も強力なハンマー。
 	
 Petals/mecha_missile/Name=Missile
 Petals/mecha_missile/FullName=Mecha Missile
-Petals/mecha_missile/Description=Locked on.
+Petals/mecha_missile/Description=捉えた。

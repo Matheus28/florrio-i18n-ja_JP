@@ -69,7 +69,7 @@ Petal/Attribute/Shield=<c val="{#Colors/generic}">シールド:</c> {0:tooltip}
 Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">体当たりダメージ:</c> {0:tooltip}
 Petal/Attribute/Period=<c val="{#Colors/generic}">効果時間:</c> {0:tooltipTime}
 Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">花の半径:</c> +{0:tooltip}
-Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">Damage Healed:</c> {0:perc}%
+Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">ダメージの内の回復割合:</c> {0:perc}%
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻撃距離:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
 Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Spawn:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
@@ -86,13 +86,13 @@ Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">花の回避率:</c> +{
 Petal/Attribute/Charges=<c val="{#Colors/generic}">回数:</c> {0:tooltip}
 Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">過剰回復変換:</c> +{0:perc}%
 Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">磁石に影響される</c>
-Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">Can find mobs that do not belong</c>
+Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">場違いなものを見つけられる</c>
 Petal/Attribute/CollisionDamageResistance=<c val="{#Colors/generic}">衝突ダメージ耐性:</c> +{0:perc}%
 Petal/Attribute/Evasion=<c val="{#Colors/generic}">回避率:</c> {0:perc}%
 Petal/Attribute/Health4=<c val="{#Colors/health}">体力:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
 Petal/Attribute/Damage4=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
 Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">毒の効果時間延長:</c> {0:tooltip}s
-Petal/Attribute/Interval=<c val="{#Colors/generic}">Interval:</c> {0:tooltipTime}
+Petal/Attribute/Interval=<c val="{#Colors/generic}">時間間隔:</c> {0:tooltipTime}
 Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">あなたの周囲の花を堕落させる。</c>
 Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">外すことができない。</c>
 Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">死んだ時に花びらを失う。</c>

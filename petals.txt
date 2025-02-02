@@ -162,8 +162,8 @@ Petals/soil/Name=Soil
 Petals/soil/FullName=Soil
 Petals/soil/Description=最大体力を増やすが、花が大きくなり移動速度が下がる。
 
-Petals/fangs/Name=Fangs
-Petals/fangs/FullName=Fangs
+Petals/fangs/Name=Fang
+Petals/fangs/FullName=Fang
 Petals/fangs/Description=この花びらで与えたダメージに応じて回復する。
 
 Petals/third_eye/Name=Third Eye

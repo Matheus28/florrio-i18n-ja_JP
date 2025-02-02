@@ -38,7 +38,7 @@ Talents/inventory10/Name=Loadout
 Talents/inventory10/Description=花びらを装備するための10番目の装備枠を有効にする。
 
 Talents/health/Name=Health
-Talents/health/Description=基礎最大{#Flower/Attribute/HealthNoColon}を{0:perc}%増やす。
+Talents/health/Description={#Flower/Attribute/HealthNoColon}を{0:perc}%増やす。
 
 Talents/health1/Name={#Talents/health/Name}
 Talents/health1/Description={#Talents/health/Description}
@@ -80,7 +80,7 @@ Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
 Talents/medic/Name=Medic
-Talents/medic/Description=あなたの花びらの{#Flower/Attribute/HealingNoColon}量が{0:perc}%増える。<n/>味方への回復量も増える。
+Talents/medic/Description=あなたの花びらの{#Flower/Attribute/HealingNoColon}が{0:perc}%増える。<n/>味方への回復量も増える。
 
 Talents/medic1/Name={#Talents/medic/Name}
 Talents/medic1/Description={#Talents/medic/Description}
@@ -254,7 +254,7 @@ Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
 Talents/concentrated_poison/Name=Concentrated Poison
-Talents/concentrated_poison/Description={#Attribute/PoisonNoColon}ダメージ毎秒を{0:perc}%させる。<n/>{#Attribute/PoisonNoColon}の効果時間が{1:perc}%短くなる。
+Talents/concentrated_poison/Description={#Attribute/PoisonNoColon}ダメージ毎秒を{0:perc}%増加させる。<n/>{#Attribute/PoisonNoColon}の効果時間が{1:perc}%短くなる。
 
 Talents/duplicator/Name=Duplicator
 Talents/duplicator/Description={0:tooltip}枚以上ある花びらに追加の複製が追加される。

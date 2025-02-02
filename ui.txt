@@ -90,10 +90,10 @@ UI/MobGallery/Title=生物図鑑
 UI/Changelog/Title=変更履歴
 UI/Changelog/Bottom=古い変更履歴は利用できません。
 
-UI/Inventory/Title=インベントリ
+UI/Inventory/Title=持ち物
 UI/Inventory/Stack=重ねる
 UI/Inventory/Instructions=花びらをドラッグして装備する
-UI/Inventory/Speed=スピード
+UI/Inventory/Speed=速度
 
 UI/Guild/Title=ギルド
 UI/Guild/NoGuild=あなたはまだギルドに入っていません。
@@ -180,6 +180,7 @@ UI/Talent/Rarity={#Rarities/{1}/Name}
 UI/Talent/TP=TP
 UI/Talent/Tooltip=レベルが上がるとTPを獲得できます
 UI/Talent/Reset=リセット
+UI/Talent/HoldToUpgrade=押し続けて強化する
 
 UI/Craft/Title=クラフト
 UI/Craft/Button=クラフト

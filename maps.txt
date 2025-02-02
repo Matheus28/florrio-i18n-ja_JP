@@ -12,7 +12,7 @@ Maps/desert/Name=砂漠
 
 Maps/garden/Name=庭
 
-Maps/hel/Name=ヘル
+Maps/hel/Name=ヘルヘイム
 
 Maps/jungle/Name=ジャングル
 

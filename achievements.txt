@@ -68,34 +68,34 @@ Achievements/18/Description={#Rarities/{1}/Name}の花びらのクラフトに�
 Achievements/19/Name=残念賞
 Achievements/19/Description={#Rarities/{1}/Name}の花びらのクラフトに失敗し花びらを{0}枚失う。
 
-Achievements/20/Name=ディガー
+Achievements/20/Name=採掘者
 Achievements/20/Description={#Petals/cutter/Name}を装備する。
 
-Achievements/21/Name=成長する
+Achievements/21/Name=成長
 Achievements/21/Description=レベル{0}に到達する。
 
-Achievements/22/Name=成長する
+Achievements/22/Name=成長
 Achievements/22/Description=レベル{0}に到達する。
 
-Achievements/23/Name=成長する
+Achievements/23/Name=成長
 Achievements/23/Description=レベル{0}に到達する。
 
-Achievements/24/Name=成長する
+Achievements/24/Name=成長
 Achievements/24/Description=レベル{0}に到達する。
 
-Achievements/25/Name=成長する
+Achievements/25/Name=成長
 Achievements/25/Description=レベル{0}に到達する。
 
-Achievements/26/Name=成長する
+Achievements/26/Name=成長
 Achievements/26/Description=レベル{0}に到達する。
 
-Achievements/27/Name=成長する
+Achievements/27/Name=成長
 Achievements/27/Description=レベル{0}に到達する。
 
 Achievements/28/Name=ごみの山
 Achievements/28/Description=クラフトで{0:tooltip}枚の花びらを失う。
 
-Achievements/29/Name=大量作成者
+Achievements/29/Name=大手クラフター
 Achievements/29/Description=花びらを{0:tooltip}枚クラフトする。
 
 Achievements/30/Name=砂漠
@@ -188,13 +188,13 @@ Achievements/58/Description=Shiny Ladybugを倒す。
 Achievements/59/Name=ゲームが違う
 Achievements/59/Description=Squareを倒す。
 
-Achievements/60/Name=サイコパス
+Achievements/60/Name=傷害者
 Achievements/60/Description=累計{0:tooltip}ダメージを与える。
 
-Achievements/61/Name=サイコパス
+Achievements/61/Name=傷害者
 Achievements/61/Description=累計{0:tooltip}ダメージを与える。
 
-Achievements/62/Name=サイコパス
+Achievements/62/Name=傷害者
 Achievements/62/Description=累計{0:tooltip}ダメージを与える。
 
 Achievements/63/Name=ワンパン
@@ -213,7 +213,7 @@ Achievements/67/Name=ワンパン
 Achievements/67/Description={#Rarities/{0}/Name}の生き物を一撃で倒す。
 
 Achievements/68/Name=日焼けする
-Achievements/68/Description=ヘルで{0:time}生き延びる。
+Achievements/68/Description=ヘルヘイムで{0:time}生き延びる。
 
 Achievements/69/Name=下手くそ
 Achievements/69/Description=開発者の死んだ花を見つける.
@@ -225,10 +225,10 @@ Achievements/71/Name=平和主義者
 Achievements/71/Description=何も破壊することなく、自然に感嘆して{0:time}過ごす。
 
 Achievements/72/Name=失せろ
-Achievements/72/Description=花をヘルへ送る。
+Achievements/72/Description=花をヘルヘイムに送る。
 
 Achievements/73/Name=失せろ
-Achievements/73/Description={0}体の花をヘルへ送る。
+Achievements/73/Description={0}体の花をヘルヘイムに送る。
 
 Achievements/74/Name=助かった
 Achievements/74/Description=蘇生される。
@@ -365,7 +365,7 @@ Achievements/117/Description={0}種類の生き物に倒される。
 Achievements/118/Name=全てにおいて下手
 Achievements/118/Description={0}種類の生き物に倒される。
 
-Achievements/119/Name=触れた
+Achievements/119/Name=接触
 Achievements/119/Description=開発者に触れる。
 
 Achievements/120/Name=すばしっこい
@@ -378,7 +378,7 @@ Achievements/122/Name=すばしっこい
 Achievements/122/Description={0:tooltip}ダメージを回避して無効化する。
 
 Achievements/123/Name=天邪鬼
-Achievements/123/Description=ヘルで{0}体の花を死なずに倒す。
+Achievements/123/Description=ヘルヘイムで{0}体の花を死なずに倒す。
 
 Achievements/124/Name=いじめっ子
 Achievements/124/Description=同じ種類の生き物を{0}体死なずに倒し続ける。

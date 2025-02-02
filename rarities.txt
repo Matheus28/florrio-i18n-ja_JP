@@ -1,44 +1,44 @@
-Rarities/common/Name=Common
-Rarities/common/ArticleUpper=
-Rarities/common/Article=
+Rarities/common/Name=コモン
+Rarities/common/ArticleUpper=コモン
+Rarities/common/Article=コモン
 Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
-Rarities/unusual/Name=Unusual
-Rarities/unusual/ArticleUpper=
-Rarities/unusual/Article=
+Rarities/unusual/Name=アンユージュアル
+Rarities/unusual/ArticleUpper=アンユージュアル
+Rarities/unusual/Article=アンユージュアル
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
-Rarities/rare/Name=Rare
-Rarities/rare/ArticleUpper=
-Rarities/rare/Article=
+Rarities/rare/Name=レア
+Rarities/rare/ArticleUpper=レア
+Rarities/rare/Article=レア
 Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
 
-Rarities/epic/Name=Epic
-Rarities/epic/ArticleUpper=
-Rarities/epic/Article=
+Rarities/epic/Name=エピック
+Rarities/epic/ArticleUpper=エピック
+Rarities/epic/Article=エピック
 Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
 
-Rarities/legendary/Name=Legendary
-Rarities/legendary/ArticleUpper=
-Rarities/legendary/Article=
+Rarities/legendary/Name=レジェンダリー
+Rarities/legendary/ArticleUpper=レジェンダリー
+Rarities/legendary/Article=レジェンダリー
 Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
 
-Rarities/mythic/Name=Mythic
-Rarities/mythic/ArticleUpper=
-Rarities/mythic/Article=
+Rarities/mythic/Name=ミシック
+Rarities/mythic/ArticleUpper=ミシック
+Rarities/mythic/Article=ミシック
 Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
 
-Rarities/ultra/Name=Ultra
-Rarities/ultra/ArticleUpper=
-Rarities/ultra/Article=
+Rarities/ultra/Name=ウルトラ
+Rarities/ultra/ArticleUpper=ウルトラ
+Rarities/ultra/Article=ウルトラ
 Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
 
-Rarities/super/Name=Super
-Rarities/super/ArticleUpper=
-Rarities/super/Article=
+Rarities/super/Name=スーパー
+Rarities/super/ArticleUpper=スーパー
+Rarities/super/Article=スーパー
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
-Rarities/unique/Name=Unique
-Rarities/unique/ArticleUpper=
-Rarities/unique/Article=
+Rarities/unique/Name=ユニーク
+Rarities/unique/ArticleUpper=ユニーク
+Rarities/unique/Article=ユニーク
 Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>

@@ -3,8 +3,8 @@ Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rari
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
-Chat/PetalCraftedUnnamed/unique=The {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}が鍛造された！
-Chat/PetalCraftedNamed/unique=The {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}が{1}によって鍛造された！
+Chat/PetalCraftedUnnamed/unique={#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}が鍛造された！
+Chat/PetalCraftedNamed/unique={#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}が{1}によって鍛造された！
 Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0}がクラフトされた！
 Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0}が{1}によってクラフトされた！
 
@@ -22,7 +22,7 @@ Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0}が{2}と{3}と{4}によって倒
 Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0}が{2}と{3}と{4}と{5}によって倒された！
 
 Chat/Revived=あなたは{0}に蘇生された。
-Chat/Marked=あなたは{0}によって落ちた。
+Chat/Marked=あなたは{0}によって堕ちた。
 
 Chat/Muted=過去の不適切なチャットにより現在チャットできません。<n/>{0:timeLeft}後に再びチャットできます。
 Chat/Spam=あなたはチャットをし過ぎている。

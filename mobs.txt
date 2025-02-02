@@ -1,223 +1,223 @@
-Mobs/rock/Name=Rock
+Mobs/rock/Name=岩
 Mobs/rock/Description=岩石だ。大した役には立たない。
 Mobs/rock/Spawn=何か山のようなものが遠くに見える...
 
-Mobs/cactus/Name=Cactus
+Mobs/cactus/Name=サボテン
 Mobs/cactus/Description=触れるな、痛いぞ。
 Mobs/cactus/Spawn=棘の塔が砂からそびえ立つ...
 
-Mobs/ladybug/Name=Ladybug
+Mobs/ladybug/Name=テントウムシ
 Mobs/ladybug/Description=可愛くて無害。
 
-Mobs/bee/Name=Bee
+Mobs/bee/Name=蜂
 Mobs/bee/Description=それは刺してくる。触るな。
 
-Mobs/ant_baby/Name=Baby Ant
+Mobs/ant_baby/Name=赤ちゃん蟻
 Mobs/ant_baby/Description=弱く無防備だが、大きな夢がある。
 
-Mobs/ant_worker/Name=Worker Ant
+Mobs/ant_worker/Name=働き蟻
 Mobs/ant_worker/Description=少し気が立っている、多分常に働いているからだろう。
 
-Mobs/ant_soldier/Name=Soldier Ant
+Mobs/ant_soldier/Name=兵隊蟻
 Mobs/ant_soldier/Description=手に入れた羽を使う準備はできている。
 
-Mobs/ant_queen/Name=Queen Ant
+Mobs/ant_queen/Name=女王蟻
 Mobs/ant_queen/Description=彼女があなたを追っているなら、あなたは何か本当に悪いことをしたに違いない。
 
-Mobs/ant_hole/Name=Ant Hole
+Mobs/ant_hole/Name=蟻の巣穴
 Mobs/ant_hole/Description=蟻達が出たり入ったりする。説明は付かない。
 
-Mobs/beetle/Name=Beetle
+Mobs/beetle/Name=甲虫
 Mobs/beetle/Description=腹ペコで、花が大好物だ。
 
-Mobs/hornet/Name=Hornet
+Mobs/hornet/Name=オオスズメバチ
 Mobs/hornet/Description=彼らはとてもだが小さな蜂ほど素敵ではない。
 Mobs/hornet/Spawn=大きい黄色の斑点が遠くに現れる...
 
-Mobs/centipede/Name=Centipede
+Mobs/centipede/Name=ムカデ
 Mobs/centipede/Description=彼らはただ彼らのことをしているだけだ。
 
-Mobs/centipede_body/Name=Centipede
+Mobs/centipede_body/Name=ムカデ
 Mobs/centipede_body/Description=彼らはただ彼らのことをしているだけだ。
 
-Mobs/centipede_evil/Name=Centipede
+Mobs/centipede_evil/Name=ムカデ
 Mobs/centipede_evil/Description=こいつは花を愛している。
 
-Mobs/centipede_evil_body/Name=Centipede
+Mobs/centipede_evil_body/Name=ムカデ
 Mobs/centipede_evil_body/Description=こいつは花を愛している。
 
-Mobs/centipede_desert/Name=Centipede
+Mobs/centipede_desert/Name=ムカデ
 Mobs/centipede_desert/Description=全速力だ。
 
-Mobs/centipede_desert_body/Name=Centipede
+Mobs/centipede_desert_body/Name=ムカデ
 Mobs/centipede_desert_body/Description=全速力だ。
 
-Mobs/square/Name=Square
+Mobs/square/Name=四角
 Mobs/square/Description=この形...見覚えがある...
 
-Mobs/ladybug_dark/Name=Ladybug
+Mobs/ladybug_dark/Name=テントウムシ
 Mobs/ladybug_dark/Description=可愛くて無害だ...手を出さない限り。
 
-Mobs/ladybug_shiny/Name=Ladybug
+Mobs/ladybug_shiny/Name=テントウムシ
 Mobs/ladybug_shiny/Description=輝いている、可愛くてほぼ無害。
 
-Mobs/spider/Name=Spider
+Mobs/spider/Name=蜘蛛
 Mobs/spider/Description=不気味だ。
 
-Mobs/scorpion/Name=Scorpion
+Mobs/scorpion/Name=サソリ
 Mobs/scorpion/Description=それは刺してくる！
 
-Mobs/fire_ant_soldier/Name=Soldier Fire Ant
+Mobs/fire_ant_soldier/Name=兵隊火蟻
 Mobs/fire_ant_soldier/Description=この蟻は超燃えている。
 
-Mobs/fire_ant_burrow/Name=Fire Ant Burrow
+Mobs/fire_ant_burrow/Name=火蟻の巣穴
 Mobs/fire_ant_burrow/Description=中に何があるんだろう？
 
-Mobs/sandstorm/Name=Sandstorm
+Mobs/sandstorm/Name=砂嵐
 Mobs/sandstorm/Description=Darude (1999)
 
-Mobs/bubble/Name=Bubble
+Mobs/bubble/Name=泡
 Mobs/bubble/Description=パッ
 
-Mobs/bumble_bee/Name=Bumble Bee
+Mobs/bumble_bee/Name=丸花蜂
 Mobs/bumble_bee/Description=急げ。
 
-Mobs/shell/Name=Shell
+Mobs/shell/Name=貝
 Mobs/shell/Description=広告じゃないよ。
 
-Mobs/starfish/Name=Starfish
+Mobs/starfish/Name=ヒトデ
 Mobs/starfish/Description=彼の名前はパトリックだ。
 
-Mobs/crab/Name=Crab
+Mobs/crab/Name=蟹
 Mobs/crab/Description=ユージーン・H・カーニ。
 
-Mobs/jellyfish/Name=Jellyfish
+Mobs/jellyfish/Name=クラゲ
 Mobs/jellyfish/Description=一番美味しいジャムを作る。
 Mobs/jellyfish/Spawn=遠くで雷の落ちるのが聞こえる...
 
-Mobs/digger/Name=Digger
+Mobs/digger/Name=掘削者
 Mobs/digger/Description=友よ、違うゲームだ。
 
-Mobs/sponge/Name=Sponge
+Mobs/sponge/Name=スポンジ
 Mobs/sponge/Description=ボブ。
 
-Mobs/leech/Name=Leech
+Mobs/leech/Name=ヒル
 Mobs/leech/Description=ちゅうちゅう。
 
-Mobs/leech_body/Name=Leech
-Mobs/leech_body/Description=Slurp slurp.
+Mobs/leech_body/Name=ヒル
+Mobs/leech_body/Description=ちゅうちゅう。
 
-Mobs/dandelion/Name=Dandelion
+Mobs/dandelion/Name=たんぽぽ
 Mobs/dandelion/Description=膨らんでいる。
 
-Mobs/fire_ant_baby/Name=Baby Fire Ant
+Mobs/fire_ant_baby/Name=赤ちゃん火蟻
 Mobs/fire_ant_baby/Description=この蟻は超燃えている。
 
-Mobs/fire_ant_worker/Name=Worker Fire Ant
+Mobs/fire_ant_worker/Name=働き火蟻
 Mobs/fire_ant_worker/Description=この蟻は超燃えている。
 
-Mobs/fire_ant_queen/Name=Queen Fire Ant
+Mobs/fire_ant_queen/Name=女王火蟻
 Mobs/fire_ant_queen/Description=この蟻は超燃えている。
 
-Mobs/ant_egg/Name=Ant Egg
+Mobs/ant_egg/Name=蟻の卵
 Mobs/ant_egg/Description=蟻ではないけど、きっともうすぐ。
 
-Mobs/fire_ant_egg/Name=Fire Ant Egg
+Mobs/fire_ant_egg/Name=火蟻の卵
 Mobs/fire_ant_egg/Description=この蟻はまだ燃えていない。
 
-Mobs/fly/Name=Fly
+Mobs/fly/Name=ハエ
 Mobs/fly/Description=ブーーーン。
 
-Mobs/leafbug/Name=Leafbug
+Mobs/leafbug/Name=葉虫
 Mobs/leafbug/Description=それは葉じゃない、虫だ。
 
-Mobs/mantis/Name=Mantis
+Mobs/mantis/Name=カマキリ
 Mobs/mantis/Description=あなたが夕食にならないよう祈ると良い。
 
-Mobs/termite_baby/Name=Baby Termite
+Mobs/termite_baby/Name=赤ちゃんシロアリ
 Mobs/termite_baby/Description=弱く無防備だが、大きな夢がある。<n/>この生物達はどうやってか繋がっているように見える。
 
-Mobs/termite_worker/Name=Worker Termite
+Mobs/termite_worker/Name=働きシロアリ
 Mobs/termite_worker/Description=少し気が立っている、多分常に働いているからだろう。<n/>この生物達はどうやってか繋がっているように見える。
 
-Mobs/termite_soldier/Name=Soldier Termite
+Mobs/termite_soldier/Name=兵隊シロアリ
 Mobs/termite_soldier/Description=手に入れた羽を使う準備はできている。<n/>この生物達はどうやってか繋がっているように見える。
 
-Mobs/termite_overmind/Name=Termite Overmind
+Mobs/termite_overmind/Name=シロアリの導き手
 Mobs/termite_overmind/Description=全てを観察する者。
 
-Mobs/termite_mound/Name=Termite Mound
+Mobs/termite_mound/Name=シロアリの塚
 Mobs/termite_mound/Description=白蟻達が出たり入ったりする。説明は付かない。
 
-Mobs/termite_egg/Name=Termite Egg
+Mobs/termite_egg/Name=シロアリの卵
 Mobs/termite_egg/Description=白蟻ではないけど、きっともうすぐ。
 
-Mobs/bush/Name=Bush
+Mobs/bush/Name=叢
 Mobs/bush/Description=俺を見くびるなよ。
 
-Mobs/roach/Name=Roach
+Mobs/roach/Name=ゴキブリ
 Mobs/roach/Description=全速力だ...彼らが疲れるまでは。
 
-Mobs/moth/Name=Moth
+Mobs/moth/Name=蛾
 Mobs/moth/Description=臆病だ、優しくしてね。
 
-Mobs/firefly/Name=Firefly
+Mobs/firefly/Name=蛍
 Mobs/firefly/Description=おお、眩しい。
 Mobs/firefly/Spawn=地平線に明るい光が浮かぶ...
 
-Mobs/beetle_hel/Name=Beetle
+Mobs/beetle_hel/Name=甲虫
 Mobs/beetle_hel/Description=別次元に現れる惨劇。
 Mobs/beetle_hel/Spawn=異次元から恐ろしい震動が来るのを感じる...
 
-Mobs/wasp/Name=Wasp
+Mobs/wasp/Name=スズメバチ
 Mobs/wasp/Description=彼らは怒っている。
 
-Mobs/dummy/Name=Target Dummy
+Mobs/dummy/Name=案山子
 Mobs/dummy/Description=どうやってこれを図鑑に収めたんだ？
 
-Mobs/spider_hel/Name=Spider
+Mobs/spider_hel/Name=蜘蛛
 Mobs/spider_hel/Description=別次元に現れる惨劇。
 Mobs/spider_hel/Spawn=異次元から恐ろしい震動が来るのを感じる...
 
-Mobs/centipede_hel/Name=Centipede
+Mobs/centipede_hel/Name=ムカデ
 Mobs/centipede_hel/Description=別次元に現れる惨劇。
 Mobs/centipede_hel/Spawn=異次元から恐ろしい震動が来るのを感じる...
 
-Mobs/centipede_hel_body/Name=Centipede
+Mobs/centipede_hel_body/Name=ムカデ
 Mobs/centipede_hel_body/Description=別次元に現れる惨劇。
 Mobs/centipede_hel_body/Spawn=異次元から恐ろしい震動が来るのを感じる...
 
-Mobs/wasp_hel/Name=Wasp
+Mobs/wasp_hel/Name=スズメバチ
 Mobs/wasp_hel/Description=別次元に現れる惨劇。
 Mobs/wasp_hel/Spawn=異次元から恐ろしい震動が来るのを感じる...
 
-Mobs/trader/Name=Trader
+Mobs/trader/Name=行商人
 
-Mobs/gambler/Name=Gambler
+Mobs/gambler/Name=ギャンブラー
 Mobs/gambler/Description=これはあなたにも起こりうる。
 Mobs/gambler/Spawn=誰かが微かに囁くのが聞こえる...「あと...もう1ゲームだけ...」
 
-Mobs/oracle/Name=Oracle
+Mobs/oracle/Name=オラクル
 
-Mobs/firefly_magic/Name=Firefly
+Mobs/firefly_magic/Name=蛍
 Mobs/firefly_magic/Description=こいつには何か魔法のようなものがある。
 
-Mobs/titan/Name=Titan
+Mobs/titan/Name=巨人
 
-Mobs/beetle_nazar/Name=Beetle
+Mobs/beetle_nazar/Name=甲虫
 Mobs/beetle_nazar/Description=こいつは違う模様を持っている...何を意味してるんだろう？
 
-Mobs/worm/Name=Worm
+Mobs/worm/Name=ワーム
 Mobs/worm/Description=本来土を食べる筈が、こいつは花を食べている。
 
-Mobs/worm_guts/Name=Worm guts
+Mobs/worm_guts/Name=ワームの急所
 Mobs/worm_guts/Description=お前は本来はこのメッセージを読めないはずだ。私は警察を呼ぶ。
 
-Mobs/mecha_flower/Name=Mecha Flower
+Mobs/mecha_flower/Name=メカの花
 Mobs/mecha_flower/Description=誰かがこれらの機械の花を作っている...これは何を意味するのだろうか？
 
-Mobs/wasp_mecha/Name=Wasp
+Mobs/wasp_mecha/Name=オオスズメバチ
 Mobs/wasp_mecha/Description=彼らは敵対モードです。
 
-Mobs/spider_mecha/Name=Spider
+Mobs/spider_mecha/Name=蜘蛛
 Mobs/spider_mecha/Description=不気味な機械だ。

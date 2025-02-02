@@ -38,25 +38,25 @@ Mobs/centipede/Name=Centipede
 Mobs/centipede/Description=彼らはただ彼らのことをしているだけだ。
 
 Mobs/centipede_body/Name=Centipede
-Mobs/centipede_body/Description=It's just there doing its thing.
+Mobs/centipede_body/Description=彼らはただ彼らのことをしているだけだ。
 
 Mobs/centipede_evil/Name=Centipede
 Mobs/centipede_evil/Description=こいつは花を愛している。
 
 Mobs/centipede_evil_body/Name=Centipede
-Mobs/centipede_evil_body/Description=This one loves flowers.
+Mobs/centipede_evil_body/Description=こいつは花を愛している。
 
 Mobs/centipede_desert/Name=Centipede
 Mobs/centipede_desert/Description=全速力だ。
 
 Mobs/centipede_desert_body/Name=Centipede
-Mobs/centipede_desert_body/Description=Gotta go fast.
+Mobs/centipede_desert_body/Description=全速力だ。
 
 Mobs/square/Name=Square
 Mobs/square/Description=この形...見覚えがある...
 
 Mobs/ladybug_dark/Name=Ladybug
-Mobs/ladybug_dark/Description=可愛くて無害...手を出さない限り。
+Mobs/ladybug_dark/Description=可愛くて無害だ...手を出さない限り。
 
 Mobs/ladybug_shiny/Name=Ladybug
 Mobs/ladybug_shiny/Description=輝いている、可愛くてほぼ無害。
@@ -74,7 +74,7 @@ Mobs/fire_ant_burrow/Name=Fire Ant Burrow
 Mobs/fire_ant_burrow/Description=中に何があるんだろう？
 
 Mobs/sandstorm/Name=Sandstorm
-Mobs/sandstorm/Description=ダルデ (1999)
+Mobs/sandstorm/Description=Darude (1999)
 
 Mobs/bubble/Name=Bubble
 Mobs/bubble/Description=パッ
@@ -89,14 +89,14 @@ Mobs/starfish/Name=Starfish
 Mobs/starfish/Description=彼の名前はパトリックだ。
 
 Mobs/crab/Name=Crab
-Mobs/crab/Description=ミスタークラブ。
+Mobs/crab/Description=ユージーン・H・カーニ。
 
 Mobs/jellyfish/Name=Jellyfish
 Mobs/jellyfish/Description=一番美味しいジャムを作る。
 Mobs/jellyfish/Spawn=遠くで雷の落ちるのが聞こえる...
 
 Mobs/digger/Name=Digger
-Mobs/digger/Description=違うゲームだ、初心者。
+Mobs/digger/Description=友よ、違うゲームだ。
 
 Mobs/sponge/Name=Sponge
 Mobs/sponge/Description=ボブ。
@@ -195,7 +195,7 @@ Mobs/trader/Name=Trader
 
 Mobs/gambler/Name=Gambler
 Mobs/gambler/Description=これはあなたにも起こりうる。
-Mobs/gambler/Spawn=誰かが微かに囁くのが聞こえる...「あと...もう一度だけ...」
+Mobs/gambler/Spawn=誰かが微かに囁くのが聞こえる...「あと...もう1ゲームだけ...」
 
 Mobs/oracle/Name=Oracle
 
@@ -211,7 +211,7 @@ Mobs/worm/Name=Worm
 Mobs/worm/Description=本来土を食べる筈が、こいつは花を食べている。
 
 Mobs/worm_guts/Name=Worm guts
-Mobs/worm_guts/Description=お前はこの文章を読むべきじゃない、警察を呼ぶ。
+Mobs/worm_guts/Description=お前は本来はこのメッセージを読めないはずだ。私は警察を呼ぶ。
 
 Mobs/mecha_flower/Name=Mecha Flower
 Mobs/mecha_flower/Description=誰かがこれらの機械の花を作っている...これは何を意味するのだろうか？

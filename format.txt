@@ -18,12 +18,12 @@ UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
 UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
 UI/TooltipTime/Now=いつでも
 
-UI/Tooltip/Grouping=1000
+UI/Tooltip/Grouping=10000
 UI/Tooltip/Group0={0}
-UI/Tooltip/Group1={0}k
-UI/Tooltip/Group2={0}m
-UI/Tooltip/Group3={0}b
-UI/Tooltip/Group4={0}t
+UI/Tooltip/Group1={0}万
+UI/Tooltip/Group2={0}億
+UI/Tooltip/Group3={0}兆
+UI/Tooltip/Group4={0}京
 
 # Helpers
 UI/Time/Days/1=1日

@@ -68,7 +68,7 @@ Achievements/18/Description={#Rarities/{1}/Name}の花びらのクラフトに�
 Achievements/19/Name=残念賞
 Achievements/19/Description={#Rarities/{1}/Name}の花びらのクラフトに失敗し花びらを{0}枚失う。
 
-Achievements/20/Name=採掘者
+Achievements/20/Name=掘削者
 Achievements/20/Description={#Petals/cutter/Name}を装備する。
 
 Achievements/21/Name=成長
@@ -218,7 +218,7 @@ Achievements/68/Description=ヘルヘイムで{0:time}生き延びる。
 Achievements/69/Name=下手くそ
 Achievements/69/Description=開発者の死んだ花を見つける.
 
-Achievements/70/Name=白蟻...？
+Achievements/70/Name=シロアリ...？
 Achievements/70/Description=友好的な白蟻を生み出す。
 
 Achievements/71/Name=平和主義者
@@ -315,7 +315,7 @@ Achievements/101/Name=運が悪かった
 Achievements/101/Description=花びらのクラフトに{0}連続で失敗する。
 
 Achievements/102/Name=紙耐久
-Achievements/102/Description=あなたの最大体力より高いダメージを受けて死ぬ。
+Achievements/102/Description=一度にあなたの最大体力より高いダメージを受けて死ぬ。
 
 Achievements/103/Name=像
 Achievements/103/Description=ゲームを遊び始めてから、一歩も動かずに{#Rarities/{0}/Name}以上の生き物を倒す。

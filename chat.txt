@@ -200,4 +200,4 @@ Chat/Titan/Idle/7=私は大地を闊歩する
 Chat/Trader/Idle={#Chat/Trader/Idle/{!rand:0:2}}
 Chat/Trader/Idle/0=少しでも良い、トレードしませんか？
 Chat/Trader/Idle/1=私のコレクションを増やしたいんだ...
-Chat/Trader/Idle/2=商品を持ってるなら、コインを渡します
+Chat/Trader/Idle/2=商品を持ってるなら、硬貨を渡します

@@ -42,7 +42,6 @@ UI/Login/SupportPINInstructions2=誰にもサポートPINを共有しないで�
 UI/Login/Reminder=あなたのアカウントに接続して進捗を保存します。
 
 UI/Social/Discord=私達のディスコードコミュニティに参加しよう！
-UI/Social/QQ=加入我们的QQ群!
 
 UI/AbandonGame=ゲームをやめる
 UI/Reconnecting=切断されました、再接続しています...
@@ -239,7 +238,7 @@ UI/Settings/Realms/3=シエラ（ASIA）
 UI/Settings/Chat=チャット
 UI/Settings/ChatWhispers=囁きチャット
 
-UI/Settings/AutoJoinSquads=スクワッドに自動加入する
+UI/Settings/AutoJoinSquads=スクワッドに自動参加する
 
 UI/Settings/HideOtherPetals=他のプレイヤーの花びらを表示しない
 

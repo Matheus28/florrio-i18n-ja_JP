@@ -12,7 +12,7 @@ Achievements/2/ExtraDescription=花びらを落とすまで彼らを破壊し続
 
 Achievements/3/Name=チュートリアル
 Achievements/3/Description=花びらを装備しよう。
-Achievements/3/ExtraDescription=装備欄に空きがあるなら、花びらを集めた時にその枠に、またはあなたの持ち物に収まります。<n/>ちょうど拾った花びらをクリックして装備してみましょう（または数字キーを押しましょう）。
+Achievements/3/ExtraDescription=装備枠に空きがあるなら、花びらを集めた時にその枠に、またはあなたの持ち物に収まります。<n/>ちょうど拾った花びらをクリックして装備してみましょう（または数字キーを押しましょう）。
 
 # Disabled
 Achievements/4/Name=チュートリアル

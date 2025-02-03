@@ -153,6 +153,19 @@ UI/DailyChallenge/TimeLeft=チャレンジは{0:timeLeft}後に変更されま�
 UI/DailyChallenge/Claimed=獲得済み
 UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
 
+UI/Banned/Title=バンされました
+UI/Banned/Instructions=あなたのアカウントはバンされました。
+UI/Banned/TimeLeft=このバンは{0:timeLeft}後に解除されます。
+UI/Banned/Permanent=このバンは永久です。
+UI/Banned/Account=アカウント: {0}
+
+UI/DailyChallenge/Title=チャレンジ
+UI/DailyChallenge/Button=チャレンジ
+UI/DailyChallenge/Instructions=この敵を倒せ:
+UI/DailyChallenge/TimeLeft=チャレンジは{0:timeLeft}後に変更されます。
+UI/DailyChallenge/Claimed=獲得済み
+UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
+
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
 UI/Petal/FullName={#Petals/{0:base}/FullName}

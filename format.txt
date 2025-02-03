@@ -1,21 +1,13 @@
-
-
-UI/Time/Days={#UI/Time/Days/{0:1orN}}
-UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
-UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
-UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
+UI/Time/Days={0}日
+UI/Time/Hours={0}時間
+UI/Time/Minutes={0}分
+UI/Time/Seconds={0}秒
 UI/Time/Now=いつでも
 
-UI/TimeLeft/Days={#UI/Time/Days/{0:1orN}}
-UI/TimeLeft/Hours={#UI/Time/Hours/{0:1orN}}
-UI/TimeLeft/Minutes={#UI/Time/Minutes/{0:1orN}}
-UI/TimeLeft/Seconds={#UI/Time/Seconds/{0:1orN}}
-UI/TimeLeft/Now=いつでも
-
-UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
-UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}
-UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{0:1orN}}
-UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{0:1orN}}
+UI/TooltipTime/Days={0:tooltip}日
+UI/TooltipTime/Hours={0:tooltip}時間
+UI/TooltipTime/Minutes={0:tooltip}分
+UI/TooltipTime/Seconds={0:tooltip}秒
 UI/TooltipTime/Now=いつでも
 
 UI/Tooltip/Grouping=10000
@@ -24,22 +16,3 @@ UI/Tooltip/Group1={0}万
 UI/Tooltip/Group2={0}億
 UI/Tooltip/Group3={0}兆
 UI/Tooltip/Group4={0}京
-
-# Helpers
-UI/Time/Days/1=1日
-UI/Time/Days/N={0}日
-UI/Time/Hours/1=1時間
-UI/Time/Hours/N={0}時間
-UI/Time/Minutes/1=1分
-UI/Time/Minutes/N={0}分
-UI/Time/Seconds/1=1秒
-UI/Time/Seconds/N={0}秒
-
-UI/TooltipTime/Days/1=1日
-UI/TooltipTime/Days/N={0:tooltip}日
-UI/TooltipTime/Hours/1=1時間
-UI/TooltipTime/Hours/N={0:tooltip}時間
-UI/TooltipTime/Minutes/1=1分
-UI/TooltipTime/Minutes/N={0:tooltip}分
-UI/TooltipTime/Seconds/1=1秒
-UI/TooltipTime/Seconds/N={0:tooltip}秒

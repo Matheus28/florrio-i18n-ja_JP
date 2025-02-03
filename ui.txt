@@ -146,13 +146,6 @@ UI/Shop/Loyalty/Title=ありがとう！
 UI/Shop/Loyalty/Instructions=支援への感謝として、スターを無料で差し上げます。<n/><n/>これは、これまでと同じ金額をより大きなパッケージで支払った場合に得られるものと同等です。
 UI/Shop/Price/USD={0}米ドル
 
-UI/DailyChallenge/Title=チャレンジ
-UI/DailyChallenge/Button=チャレンジ
-UI/DailyChallenge/Instructions=この敵を倒せ:
-UI/DailyChallenge/TimeLeft=チャレンジは{0:timeLeft}後に変更されます。
-UI/DailyChallenge/Claimed=獲得済み
-UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
-
 UI/Banned/Title=バンされました
 UI/Banned/Instructions=あなたのアカウントはバンされました。
 UI/Banned/TimeLeft=このバンは{0:timeLeft}後に解除されます。

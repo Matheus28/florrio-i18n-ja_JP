@@ -1,5 +1,5 @@
 UI/Language/Name=日本語 (JP)
-UI/Language/Credits=fleepoint
+UI/Language/Credits=fleepoint<n/>Houjitya
 
 UI/Title/Loading=ロード中...
 UI/Title/Connecting=接続中...
@@ -264,6 +264,7 @@ UI/Settings/MovementHelper=予測線
 UI/Settings/FixedJoystick=ジョイスティック固定
 
 UI/Settings/AutoSaveLoadout=装備を自動保存する
+UI/Settings/AutoSaveLoadout/Help=無効にした場合、装備を保存する時はOキーを押す
 
 UI/Settings/PrivacyPolicy=プライバシーポリシー
 UI/Settings/TermsOfService=利用規約

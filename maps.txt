@@ -6,7 +6,7 @@ Maps/ant_hole3/Name=シロアリの塚
 Maps/ant_hole4/Name=シロアリの塚
 Maps/ant_hole5/Name=シロアリの塚
 
-Maps/battle_ground/Name=闘技場
+Maps/battle_ground/Name=戦場
 
 Maps/desert/Name=砂漠
 

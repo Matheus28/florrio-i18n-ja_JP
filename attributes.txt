@@ -14,7 +14,7 @@ Mob/Attribute/Health=<c val="{#Colors/health}">体力:</c> {0:tooltip}
 Mob/Attribute/HealthRange=<c val="{#Colors/health}">体力:</c> {0:tooltip}~{1:tooltip}
 Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">体力</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
-Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">電撃:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
+Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} (毎秒{1:tooltip})
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> 毎秒{0:tooltip}

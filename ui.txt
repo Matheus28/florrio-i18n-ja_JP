@@ -64,7 +64,13 @@ UI/Chat/Player/Whisper=囁き
 UI/Chat/Player/InviteToSquad=スクワッドに招待する
 UI/Chat/Player/InviteToGuild=ギルドに招待する
 
-UI/Flower/Level=レベル {0}
+UI/Flower/Level=Lvl {0}
+
+# When you evade damage
+UI/Damage/Evade=Evade
+
+# When the target evades damage
+UI/Damage/Miss=Miss
 
 UI/Death/Title=あなたは破壊された:
 UI/Death/NoSource=謎の存在
@@ -82,17 +88,17 @@ UI/Achievements/Done=完了
 UI/Achievements/Track=追跡
 UI/Achievements/TrackAutomatically=自動追跡
 UI/Achievements/Hidden=???
-UI/Achievements/TotalProgress={0}/{1} 完了
+UI/Achievements/TotalProgress={0}/{1} completed
 
 UI/MobGallery/Title=生物図鑑
 
 UI/Changelog/Title=変更履歴
 UI/Changelog/Bottom=古い変更履歴は利用できません。
 
-UI/Inventory/Title=持ち物
-UI/Inventory/Stack=重ねる
-UI/Inventory/Instructions=花びらをドラッグして装備する
-UI/Inventory/Speed=速度
+UI/Inventory/Title=Inventory
+UI/Inventory/Stack=Stack
+UI/Inventory/Instructions=Drag a petal to equip it
+UI/Inventory/Speed=Speed
 
 UI/Guild/Title=ギルド
 UI/Guild/NoGuild=あなたはまだギルドに入っていません。
@@ -120,43 +126,43 @@ UI/Squad/Error/CannotJoin=あなたはこのスクワッドに入ることがで
 UI/Squad/Error/LevelDifference=あなたとスクワッドのレベルが開きすぎています
 UI/Squad/Error/Full=スクワッドは満員です
 
-UI/Shop/Title=ショップ
-UI/Shop/Button=ショップ
-UI/Shop/Instructions=本日の品揃え:
-UI/Shop/TimeLeft=品揃えは{0:timeLeft}後に変更されます。
-UI/Shop/Lock=固定
-UI/Shop/LockedChanged=固定を解除すると品揃えが変更されるようになります。
-UI/Shop/LockedNoChange=固定している間は品揃えが変更されません。
-UI/Shop/StarsHelp1=チャレンジを達成したり、
-UI/Shop/StarsHelp2=右の数字を押して購入することでスターを獲得できます。
-UI/Shop/MustLink1=ディスコードかアップルでアカウントを接続しなければ
-UI/Shop/MustLink2=購入することはできません。
-UI/Shop/MustLinkCancel=中止
-UI/Shop/BuyStars/Instructions=購入に関して問題がある場合は、弊社の支払い処理業者 support@xsolla.com まで連絡するか、xsolla.com でライブ チャットを利用してください。
-UI/Shop/BuyStars/Extra=お金が有り余っている
-UI/Shop/BuyStars/Cancel=中止
-UI/Shop/BuyPetal/Title=確定
-UI/Shop/BuyPetal/Instructions=本当にこれを購入しますか？<n/><c val="{#Colors/danger}">花びらの購入は返却できません。</c>
-UI/Shop/BuyPetal/Cancel=中止
-UI/Shop/MagicPetalError/Title=エラー
-UI/Shop/MagicPetalError/Instructions={#Petals/{0}/FullName}を手に入れるまで<n/>魔法の花びらを購入することはできません。
-UI/Shop/MagicPetalError/Cancel=中止
-UI/Shop/Loyalty/Title=ありがとう！
-UI/Shop/Loyalty/Instructions=支援への感謝として、スターを無料で差し上げます。<n/><n/>これは、これまでと同じ金額をより大きなパッケージで支払った場合に得られるものと同等です。
-UI/Shop/Price/USD={0}米ドル
+UI/Shop/Title=Shop
+UI/Shop/Button=Shop
+UI/Shop/Instructions=Today's offers:
+UI/Shop/TimeLeft=Store will change {0:timeLeft}
+UI/Shop/Lock=Lock
+UI/Shop/LockedChanged=Store will change once unlocked.
+UI/Shop/LockedNoChange=Store will not change while locked.
+UI/Shop/StarsHelp1=You gain stars by completing challenges, or you can
+UI/Shop/StarsHelp2=buy some by clicking the number on the right.
+UI/Shop/MustLink1=To make any purchases, you must first
+UI/Shop/MustLink2=link your account to Discord or Apple.
+UI/Shop/MustLinkCancel=Cancel
+UI/Shop/BuyStars/Instructions=In case of any issues with your purchase,<n/>please contact our payment processor:<n/>support@xsolla.com or live chat at xsolla.com.
+UI/Shop/BuyStars/Extra=I have too much money
+UI/Shop/BuyStars/Cancel=Cancel
+UI/Shop/BuyPetal/Title=Confirm
+UI/Shop/BuyPetal/Instructions=Are you sure you want to buy this?<n/><c val="{#Colors/danger}">Petal purchases are not refundable</c>
+UI/Shop/BuyPetal/Cancel=Cancel
+UI/Shop/MagicPetalError/Title=Error
+UI/Shop/MagicPetalError/Instructions=You cannot buy magic petals<n/>until you have a {#Petals/{0}/FullName}.
+UI/Shop/MagicPetalError/Cancel=Cancel
+UI/Shop/Loyalty/Title=Thank you!
+UI/Shop/Loyalty/Instructions=As a thank you for your support,<n/>we'd like to give you some stars, for free.<n/><n/>This is the equivalent of what you'd have gotten had you spent<n/>the same amount of money you already did, but with larger packages.
+UI/Shop/Price/USD=${0}
 
-UI/Banned/Title=バンされました
-UI/Banned/Instructions=あなたのアカウントはバンされました。
-UI/Banned/TimeLeft=このバンは{0:timeLeft}後に解除されます。
-UI/Banned/Permanent=このバンは永久です。
-UI/Banned/Account=アカウント: {0}
+UI/Banned/Title=BANNED
+UI/Banned/Instructions=Your account has been banned.
+UI/Banned/TimeLeft=This ban will expire {0:timeLeft}.
+UI/Banned/Permanent=This ban is permanent.
+UI/Banned/Account=Account: {0}
 
-UI/DailyChallenge/Title=チャレンジ
-UI/DailyChallenge/Button=チャレンジ
-UI/DailyChallenge/Instructions=この敵を倒せ:
-UI/DailyChallenge/TimeLeft=チャレンジは{0:timeLeft}後に変更されます。
-UI/DailyChallenge/Claimed=獲得済み
-UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
+UI/DailyChallenge/Title=Challenge
+UI/DailyChallenge/Button=Challenge
+UI/DailyChallenge/Instructions=Defeat these enemies:
+UI/DailyChallenge/TimeLeft=Challenges will change {0:timeLeft}
+UI/DailyChallenge/Claimed=Claimed
+UI/DailyChallenge/SupportersOnly=Challenge available<n/>for supporters only.
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
@@ -198,15 +204,15 @@ UI/Absorb/Title=吸収
 UI/Absorb/Button=吸収
 UI/Absorb/Instructions=花びらを吸収して経験値を得られます<n/><c val="{#Colors/danger}">警告: その過程で花びらは破壊され失われます</c>
 
-UI/CoinCraft/Title=取引
-UI/CoinCraft/Button=取引
-UI/CoinCraft/Instruction=花びらを同じレアリティのコインと取引できます。
-UI/CoinCraft/Delay={0:timeLeft}後に再び取引できます。
+UI/CoinCraft/Title=Trade
+UI/CoinCraft/Button=Trade
+UI/CoinCraft/Instructions=You can trade a petal for a coin of the same rarity
+UI/CoinCraft/Delay=You'll be able to trade again {0:timeLeft}
 
-UI/OracleCraft/Title=オラクル
-UI/OracleCraft/Button=クラフト
-UI/OracleCraft/Instruction=オラクルはそれに見合った対価でクラフトを保証します。
-UI/OracleCraft/Delay={0:timeLeft}後に再びクラフトできます。
+UI/OracleCraft/Title=Oracle
+UI/OracleCraft/Button=Craft
+UI/OracleCraft/Instructions=The Oracle will guarantee a craft... for the right price.
+UI/OracleCraft/Delay=You'll be able to craft again {0:timeLeft}
 
 UI/Plinko/Title=プリンコ
 UI/Plinko/Auto=自動
@@ -259,11 +265,11 @@ UI/Settings/TouchControls=タッチ操作
 
 UI/Settings/KeyboardMovement=キーボード移動
 
-UI/Settings/MovementHelper=予測線
+UI/Settings/MovementHelper=Movement helper
 
 UI/Settings/FixedJoystick=ジョイスティック固定
 
-UI/Settings/AutoSaveLoadout=装備を自動保存する
+UI/Settings/AutoSaveLoadout=Auto-save loadout
 
 UI/Settings/PrivacyPolicy=プライバシーポリシー
 UI/Settings/TermsOfService=利用規約

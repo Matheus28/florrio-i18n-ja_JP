@@ -1,16 +1,8 @@
-
-
 UI/Time/Days={#UI/Time/Days/{0:1orN}}
 UI/Time/Hours={#UI/Time/Hours/{0:1orN}}
 UI/Time/Minutes={#UI/Time/Minutes/{0:1orN}}
 UI/Time/Seconds={#UI/Time/Seconds/{0:1orN}}
 UI/Time/Now=いつでも
-
-UI/TimeLeft/Days={#UI/Time/Days/{0:1orN}}
-UI/TimeLeft/Hours={#UI/Time/Hours/{0:1orN}}
-UI/TimeLeft/Minutes={#UI/Time/Minutes/{0:1orN}}
-UI/TimeLeft/Seconds={#UI/Time/Seconds/{0:1orN}}
-UI/TimeLeft/Now=いつでも
 
 UI/TooltipTime/Days={#UI/TooltipTime/Days/{0:1orN}}
 UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{0:1orN}}

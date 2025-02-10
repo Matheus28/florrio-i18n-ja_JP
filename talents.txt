@@ -1,4 +1,4 @@
-Talents/crafting/Name=Crafting
+Talents/crafting/Name=作成する
 Talents/crafting/Description=<c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c>の花びらを作成する能力が解禁される。
 
 Talents/crafting_unusual/Name={#Talents/crafting/Name}
@@ -22,22 +22,22 @@ Talents/crafting_ultra/Description={#Talents/crafting/Description}
 Talents/crafting_super/Name={#Talents/crafting/Name}
 Talents/crafting_super/Description={#Talents/crafting/Description}
 
-Talents/inventory6/Name=Loadout
+Talents/inventory6/Name=装備
 Talents/inventory6/Description=花びらを装備するための6番目の装備枠を有効にする。
 
-Talents/inventory7/Name=Loadout
+Talents/inventory7/Name=装備
 Talents/inventory7/Description=花びらを装備するための7番目の装備枠を有効にする。
 
-Talents/inventory8/Name=Loadout
+Talents/inventory8/Name=装備
 Talents/inventory8/Description=花びらを装備するための8番目の装備枠を有効にする。
 
-Talents/inventory9/Name=Loadout
+Talents/inventory9/Name=装備
 Talents/inventory9/Description=花びらを装備するための9番目の装備枠を有効にする。
 
-Talents/inventory10/Name=Loadout
+Talents/inventory10/Name=装備
 Talents/inventory10/Description=花びらを装備するための10番目の装備枠を有効にする。
 
-Talents/health/Name=Health
+Talents/health/Name=体力
 Talents/health/Description={#Flower/Attribute/HealthNoColon}を{0:perc}%増やす。
 
 Talents/health1/Name={#Talents/health/Name}
@@ -64,7 +64,7 @@ Talents/health7/Description={#Talents/health/Description}
 Talents/health8/Name={#Talents/health/Name}
 Talents/health8/Description={#Talents/health/Description}
 
-Talents/luck/Name=Luck
+Talents/luck/Name=運
 Talents/luck/Description={#Flower/Attribute/LuckNoColon}を{0:tooltip}ポイント増やす。<n/>運は特定の花びらの強さを変える。
 
 Talents/luck1/Name={#Talents/luck/Name}
@@ -79,7 +79,7 @@ Talents/luck3/Description={#Talents/luck/Description}
 Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
-Talents/medic/Name=Medic
+Talents/medic/Name=治療
 Talents/medic/Description=あなたの花びらの{#Flower/Attribute/HealingNoColon}が{0:perc}%増える。<n/>味方への回復量も増える。
 
 Talents/medic1/Name={#Talents/medic/Name}
@@ -106,7 +106,7 @@ Talents/medic7/Description={#Talents/medic/Description}
 Talents/medic8/Name={#Talents/medic/Name}
 Talents/medic8/Description={#Talents/medic/Description}
 
-Talents/summoner/Name=Summoner
+Talents/summoner/Name=召喚士
 Talents/summoner/Description=召喚した生き物の{#Mob/Attribute/HealthNoColon}が{0:perc}%増える。
 
 Talents/summoner1/Name={#Talents/summoner/Name}
@@ -133,31 +133,31 @@ Talents/summoner7/Description={#Talents/summoner/Description}
 Talents/summoner8/Name={#Talents/summoner/Name}
 Talents/summoner8/Description={#Talents/summoner/Description}
 
-Talents/reload1/Name=Reload
+Talents/reload1/Name=リロード
 Talents/reload1/Description=花びらの再生時間を{0:perc}%短くする。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload2/Name=Reload
+Talents/reload2/Name=リロード
 Talents/reload2/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload3/Name=Reload
+Talents/reload3/Name=リロード
 Talents/reload3/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload4/Name=Reload
+Talents/reload4/Name=リロード
 Talents/reload4/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload5/Name=Reload
+Talents/reload5/Name=リロード
 Talents/reload5/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒になる。
 
-Talents/reload6/Name=Reload
+Talents/reload6/Name=リロード
 Talents/reload6/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。
 
-Talents/reload7/Name=Reload
+Talents/reload7/Name=リロード
 Talents/reload7/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。
 
-Talents/reload8/Name=Reload
+Talents/reload8/Name=リロード
 Talents/reload8/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。
 
-Talents/body_damage/Name=Sharp Edges
+Talents/body_damage/Name=鋭さ
 Talents/body_damage/Description={#Flower/Attribute/BodyDamageNoColon}が{0:perc}%増加する。
 
 Talents/body_damage1/Name={#Talents/body_damage/Name}
@@ -184,7 +184,7 @@ Talents/body_damage7/Description={#Talents/body_damage/Description}
 Talents/body_damage8/Name={#Talents/body_damage/Name}
 Talents/body_damage8/Description={#Talents/body_damage/Description}
 
-Talents/petal_rotation/Name=Petal Rotation
+Talents/petal_rotation/Name=花びらの回転
 Talents/petal_rotation/Description=花びらの{#Flower/Attribute/RotationSpeedNoColon}が{1:tooltip}から{0:tooltip}ラジアン毎秒になる。
 
 Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
@@ -202,7 +202,7 @@ Talents/petal_rotation4/Description={#Talents/petal_rotation/Description}
 Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
 Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
 
-Talents/reach/Name=Reach
+Talents/reach/Name=射程
 Talents/reach/Description=花びらの{#Flower/Attribute/AttackRangeNoColon}が{0:tooltip}増える。
 
 Talents/reach1/Name={#Talents/reach/Name}
@@ -214,19 +214,19 @@ Talents/reach2/Description={#Talents/reach/Description}
 Talents/reach3/Name={#Talents/reach/Name}
 Talents/reach3/Description={#Talents/reach/Description}
 
-Talents/second_chance1/Name=Second Chance
+Talents/second_chance1/Name=第二のチャンス
 Talents/second_chance1/Description=致命的なダメージを受けた時に、{0:tooltip}秒の間死を防ぐ。{1:tooltip}秒のクールダウンがある。
 
-Talents/second_chance2/Name=Second Chance
+Talents/second_chance2/Name=第二のチャンス
 Talents/second_chance2/Description=効果時間が{0:tooltip}秒に増え、クールダウンが{1:tooltip}秒に短くなる。
 
-Talents/magnetism/Name=Magnetism
+Talents/magnetism/Name=磁石信者
 Talents/magnetism/Description=生きている間、拾得物の回収範囲を{0}増やす。
 
-Talents/body_toxicity/Name=Body Toxicity
+Talents/body_toxicity/Name=身体毒
 Talents/body_toxicity/Description=敵と衝突する時、追加のダメージを与える。<n/>{#Flower/Attribute/BodyDamageNoColon}の{0:tooltip}倍の量の{#Attribute/PoisonNoColon}ダメージを{1:tooltip}秒間にかけて与える。
 
-Talents/poison/Name=Poison
+Talents/poison/Name=毒
 Talents/poison/Description=全ての{#Attribute/PoisonNoColon}ダメージが{0:perc}%増加する。
 
 Talents/poison1/Name={#Talents/poison/Name}
@@ -253,17 +253,17 @@ Talents/poison7/Description={#Talents/poison/Description}
 Talents/poison8/Name={#Talents/poison/Name}
 Talents/poison8/Description={#Talents/poison/Description}
 
-Talents/concentrated_poison/Name=Concentrated Poison
+Talents/concentrated_poison/Name=凝縮された毒
 Talents/concentrated_poison/Description={#Attribute/PoisonNoColon}ダメージ毎秒を{0:perc}%増加させる。<n/>{#Attribute/PoisonNoColon}の効果時間が{1:perc}%短くなる。
 
-Talents/duplicator/Name=Duplicator
+Talents/duplicator/Name=複製
 Talents/duplicator/Description={0:tooltip}枚以上ある花びらに追加の複製が追加される。
 
-Talents/antennae1/Name=Antennae
+Talents/antennae1/Name=アンテナ
 Talents/antennae1/Description=視野を{0:perc}%拡張する。
 
-Talents/antennae2/Name=Antennae
+Talents/antennae2/Name=アンテナ
 Talents/antennae2/Description=視野拡張が{2:perc}%から{1:perc}%になる。
 
-Talents/antennae3/Name=Antennae
+Talents/antennae3/Name=アンテナ
 Talents/antennae3/Description=視野拡張が{2:perc}%から{1:perc}%になる。

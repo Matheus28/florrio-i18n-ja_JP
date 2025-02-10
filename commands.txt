@@ -39,7 +39,7 @@ Chat/Command/squad-public/Description=スクワッドを公開にします
 Chat/Command/squad-private/Args=
 Chat/Command/squad-private/Description=スクワッドをプライベートにします
 
-Chat/Command/whisper/Args=<target> <メッセージ>
+Chat/Command/whisper/Args=<対象> <メッセージ>
 Chat/Command/whisper/Description=特定のプレイヤーにメッセージを送ります
 
 Chat/Command/w/Args={#Chat/Command/whisper/Args}
@@ -60,7 +60,7 @@ Chat/Command/map/Description=マップメッセージを送ります
 Chat/Command/global/Args=<メッセージ>
 Chat/Command/global/Description=世界メッセージを送ります
 
-Chat/Command/unblock/Args=<name>
+Chat/Command/unblock/Args=<名前>
 Chat/Command/unblock/Description=あなたのブロックリストから誰かを削除します
 
 Chat/Command/unblock-all/Args=

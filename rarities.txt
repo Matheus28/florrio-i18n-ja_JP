@@ -3,9 +3,9 @@ Rarities/common/ArticleUpper=コモン
 Rarities/common/Article=コモン
 Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
 
-Rarities/unusual/Name=アンユージュアル
-Rarities/unusual/ArticleUpper=アンユージュアル
-Rarities/unusual/Article=アンユージュアル
+Rarities/unusual/Name=アンコモン
+Rarities/unusual/ArticleUpper=アンコモン
+Rarities/unusual/Article=アンコモン
 Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
 
 Rarities/rare/Name=レア

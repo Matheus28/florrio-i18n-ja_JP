@@ -177,6 +177,7 @@ UI/Bonus/Delay={0:time}後に再びボーナスを有効にできます。
 UI/Bonus/CurrentlyActive={0:time}の間ボーナスが有効です。
 UI/Bonus/Available=ボーナスを有効にできます。{0:time}の間持続します。
 UI/Bonus/AvailableExpiration=ボーナスを有効にしない場合、{0:time}後にリセットされます。
+UI/Bonus/AutoDelay={0:time}後に再びボーナスが有効になります。
 UI/Bonus/Activate=有効
 UI/Bonus/Activate/Setting=自動的に有効にする
 

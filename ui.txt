@@ -133,7 +133,7 @@ UI/Squad/Error/Full=スクワッドは満員です
 UI/Shop/Title=ショップ
 UI/Shop/Button=ショップ
 UI/Shop/Instructions=本日の品揃え:
-UI/Shop/TimeLeft=品揃えは{0:time}後に変更されます。
+UI/Shop/TimeLeft=品揃えは{0:time:left}後に変更されます。
 UI/Shop/Lock=固定
 UI/Shop/LockedChanged=固定を解除すると品揃えが変更されるようになります。
 UI/Shop/LockedNoChange=固定している間は品揃えが変更されません。
@@ -157,14 +157,14 @@ UI/Shop/Price/USD={0}米ドル
 
 UI/Banned/Title=バンされました
 UI/Banned/Instructions=あなたのアカウントはバンされました。
-UI/Banned/TimeLeft=このバンは{0:time}後に解除されます。
+UI/Banned/TimeLeft=このバンは{0:time:left}後に解除されます。
 UI/Banned/Permanent=このバンは永久です。
 UI/Banned/Account=アカウント: {0}
 
 UI/DailyChallenge/Title=チャレンジ
 UI/DailyChallenge/Button=チャレンジ
 UI/DailyChallenge/Instructions=この敵を倒せ:
-UI/DailyChallenge/TimeLeft=チャレンジは{0:time}後に変更されます。
+UI/DailyChallenge/TimeLeft=チャレンジは{0:time:left}後に変更されます。
 UI/DailyChallenge/Claimed=獲得済み
 UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
 
@@ -222,12 +222,12 @@ UI/Absorb/Instructions=花びらを吸収して経験値を得られます<n/><c
 UI/CoinCraft/Title=取引
 UI/CoinCraft/Button=取引
 UI/CoinCraft/Instruction=花びらを同じレアリティのコインと取引できます。
-UI/CoinCraft/Delay={0:time}後に再び取引できます。
+UI/CoinCraft/Delay={0:time:left}後に再び取引できます。
 
 UI/OracleCraft/Title=オラクル
 UI/OracleCraft/Button=クラフト
 UI/OracleCraft/Instruction=オラクルはそれに見合った対価でクラフトを保証します。
-UI/OracleCraft/Delay={0:time}後に再びクラフトできます。
+UI/OracleCraft/Delay={0:time:left}後に再びクラフトできます。
 
 UI/Plinko/Title=プリンコ
 UI/Plinko/Auto=自動

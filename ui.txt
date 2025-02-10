@@ -22,7 +22,7 @@ UI/Title/Biome/0=庭
 UI/Title/Biome/1=砂漠
 UI/Title/Biome/2=海
 UI/Title/Biome/3=ジャングル
-UI/Title/Biome/4=ヘル
+UI/Title/Biome/4=ヘルヘイム
 
 UI/Login/Title=アカウント
 UI/Login/PlayAsGuest=ゲストとして遊ぶ

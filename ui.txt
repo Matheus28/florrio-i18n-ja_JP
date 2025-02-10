@@ -64,13 +64,13 @@ UI/Chat/Player/Whisper=囁き
 UI/Chat/Player/InviteToSquad=スクワッドに招待する
 UI/Chat/Player/InviteToGuild=ギルドに招待する
 
-UI/Flower/Level=Lvl {0}
+UI/Flower/Level=レベル {0}
 
 # When you evade damage
-UI/Damage/Evade=Evade
+UI/Damage/Evade=回避
 
 # When the target evades damage
-UI/Damage/Miss=Miss
+UI/Damage/Miss=ミス
 
 UI/Death/Title=あなたは破壊された:
 UI/Death/NoSource=謎の存在

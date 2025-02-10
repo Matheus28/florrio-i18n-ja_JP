@@ -257,7 +257,7 @@ Talents/concentrated_poison/Name=凝縮された毒
 Talents/concentrated_poison/Description={#Attribute/PoisonNoColon}ダメージ毎秒を{0:perc}%増加させる。<n/>{#Attribute/PoisonNoColon}の効果時間が{1:perc}%短くなる。
 
 Talents/duplicator/Name=複製
-Talents/duplicator/Description={0:tooltip}枚以上ある花びらに追加の複製が追加される。
+Talents/duplicator/Description=複数ある花びらに追加の複製が追加される。
 
 Talents/antennae1/Name=アンテナ
 Talents/antennae1/Description=視野を{0:perc}%拡張する。

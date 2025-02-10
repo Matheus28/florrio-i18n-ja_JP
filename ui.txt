@@ -214,7 +214,7 @@ UI/Craft/Button=クラフト
 UI/Craft/Chance=成功確率 {0:perc}%
 UI/Craft/UnknownChance=成功確率 ?%
 UI/Craft/CombineInstructions=同じ花びらを{0}つ合わせることでアップグレードをクラフトできます
-UI/Craft/FailureInstructions=失敗すると{0}から{1}枚が破壊され失われます
+UI/Craft/FailureInstructions=失敗すると{0}枚から{1}枚が破壊され失われます
 
 UI/Absorb/Title=吸収
 UI/Absorb/Button=吸収

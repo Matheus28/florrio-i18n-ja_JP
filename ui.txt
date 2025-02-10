@@ -1,4 +1,4 @@
-UI/Language/Name=日本語 (JP)
+UI/Language/Name=日本語
 UI/Language/Credits=fleepoint
 
 UI/Title/Loading=ロード中...

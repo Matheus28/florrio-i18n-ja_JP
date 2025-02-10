@@ -24,7 +24,7 @@ Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0}が{2}と{3}と{4}と{5}によっ
 Chat/Revived=あなたは{0}に蘇生された。
 Chat/Marked=あなたは{0}によって堕ちた。
 
-Chat/Muted=過去の不適切なチャットにより現在チャットできません。<n/>{0:time:left}後に再びチャットできます。
+Chat/Muted=過去の不適切なチャットにより現在チャットできません。<n/>{0:time:Left}後に再びチャットできます。
 Chat/Spam=あなたはチャットをし過ぎている。
 Chat/Alone=あなたの声を聞く者が誰も居ない。
 Chat/Banned=あなたは現在バンされているため、遊ぶことができません。
@@ -36,7 +36,7 @@ Chat/GuildChannelDisabled=ギルドチャットが無効になっています。
 Chat/GuestTooChatty=申し訳ありません、ゲストアカウントのチャット権限はレベル{0}になるまで制限されています。
 Chat/PlayerReported=プレイヤーを通報しました。
 Chat/PlayerBlocked={0}をブロックしました。
-Chat/ServerClosing=このサーバーは{0:time:left}後に閉鎖する予定です。
+Chat/ServerClosing=このサーバーは{0:time:Left}後に閉鎖する予定です。
 Chat/ServerClosed=サーバーは閉鎖しました、退出する時間だ。
 Chat/ServerNoLongerClosing=サーバーの閉鎖は中止されました。
 

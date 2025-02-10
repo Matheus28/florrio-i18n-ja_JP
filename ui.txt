@@ -166,7 +166,7 @@ UI/DailyChallenge/Button=チャレンジ
 UI/DailyChallenge/Instructions=この敵を倒せ:
 UI/DailyChallenge/TimeLeft=チャレンジは{0:time:left}後に変更されます。
 UI/DailyChallenge/Claimed=獲得済み
-UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
+UI/DailyChallenge/SupportersOnly=サポーターにのみ<n/>チャレンジが利用可能です。
 
 UI/Bonus/Title=ボーナス
 UI/Bonus/Button=ボーナス
@@ -292,7 +292,7 @@ UI/Settings/AutoSaveLoadout/Help=無効にした場合、装備を保存する�
 UI/Settings/PrivacyPolicy=プライバシーポリシー
 UI/Settings/TermsOfService=利用規約
 
-UI/Credits/MadeBy=Made by {0}
+UI/Credits/MadeBy={0}によって製作されました
 UI/Credits/SomeIcons={0}からアイコン
 UI/Credits/SomeTiles={0}からタイル
 UI/Credits/SpecialThanks=スペシャルサンクス

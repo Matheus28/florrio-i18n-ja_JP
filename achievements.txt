@@ -424,3 +424,6 @@ Achievements/137/Description=オラクルを使って{#Rarities/{0}/Name}以上�
 
 Achievements/138/Name=魔法使い
 Achievements/138/Description={#Petals/{0}/Name}を装備する。
+
+Achievements/139/Name=運が良い気がする
+Achievements/139/Description={#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}によって追加の拾得物を獲得する。

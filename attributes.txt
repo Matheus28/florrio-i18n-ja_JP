@@ -106,3 +106,4 @@ Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">ダメージ�
 Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}毎<c val="{#Colors/mana}">マナ</c>
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">召喚コスト:</c> {0:tooltip} <c val="{#Colors/mana}">マナ</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">維持コスト:</c> 毎秒{0:tooltip} <c val="{#Colors/mana}">マナ</c>
+Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">{0:perc}%の確率で生き物が追加の拾得物を落とす。</c>

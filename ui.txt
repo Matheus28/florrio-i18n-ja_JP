@@ -171,6 +171,7 @@ UI/DailyChallenge/SupportersOnly=サポーターにのみ<n/>チャレンジが�
 UI/Bonus/Title=ボーナス
 UI/Bonus/Button=ボーナス
 UI/Bonus/Instructions=追加の報酬を得よう
+UI/Bonus/Instructions2=あなたが遊ぶ日の最初の1時間は、追加の拾得物を得られます。
 UI/Bonus/Pill/Label={0}倍
 UI/Bonus/Delay={0:time}後に再びボーナスを有効にできます。
 UI/Bonus/CurrentlyActive={0:time}の間ボーナスが有効です。

@@ -200,6 +200,7 @@ UI/Achievements/Name={#Achievements/{0}/Name:1-}
 UI/Achievements/SortName={#Achievements/{0}/Name:1-}
 UI/Achievements/Description={#Achievements/{0}/Description:1-}
 UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#UI/Petal/Rarity}
 
 UI/Talent/Title=能力
 UI/Talent/Name={#Talents/{0}/Name:1-}
@@ -294,7 +295,7 @@ UI/Settings/AutoSaveLoadout/Help=無効にした場合、装備を保存する�
 UI/Settings/PrivacyPolicy=プライバシーポリシー
 UI/Settings/TermsOfService=利用規約
 
-UI/Credits/MadeBy={0}によって製作されました
+UI/Credits/MadeBy=制作：{0}
 UI/Credits/SomeIcons={0}からアイコン
 UI/Credits/SomeTiles={0}からタイル
 UI/Credits/SpecialThanks=スペシャルサンクス

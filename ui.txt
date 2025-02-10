@@ -1,5 +1,5 @@
 UI/Language/Name=日本語 (JP)
-UI/Language/Credits=fleepoint<n/>Houjitya
+UI/Language/Credits=fleepoint
 
 UI/Title/Loading=ロード中...
 UI/Title/Connecting=接続中...
@@ -89,16 +89,20 @@ UI/Achievements/Track=追跡
 UI/Achievements/TrackAutomatically=自動追跡
 UI/Achievements/Hidden=???
 UI/Achievements/TotalProgress={0}/{1} completed
+UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
+UI/Achievements/UnlockedNotification/1=実績を解除しました
+UI/Achievements/UnlockedNotification/N=実績を解除しました
 
 UI/MobGallery/Title=生物図鑑
 
 UI/Changelog/Title=変更履歴
 UI/Changelog/Bottom=古い変更履歴は利用できません。
 
-UI/Inventory/Title=Inventory
-UI/Inventory/Stack=Stack
-UI/Inventory/Instructions=Drag a petal to equip it
-UI/Inventory/Speed=Speed
+UI/Inventory/Title=持ち物
+UI/Inventory/Stack=重ねる
+UI/Inventory/Instructions=花びらをドラッグして装備する
+UI/Inventory/Speed=速度
+UI/Inventory/Rarity={#UI/Petal/Rarity}
 
 UI/Guild/Title=ギルド
 UI/Guild/NoGuild=あなたはまだギルドに入っていません。
@@ -129,7 +133,7 @@ UI/Squad/Error/Full=スクワッドは満員です
 UI/Shop/Title=ショップ
 UI/Shop/Button=ショップ
 UI/Shop/Instructions=本日の品揃え:
-UI/Shop/TimeLeft=品揃えは{0:time:Left}後に変更されます。
+UI/Shop/TimeLeft=品揃えは{0:time}後に変更されます。
 UI/Shop/Lock=固定
 UI/Shop/LockedChanged=固定を解除すると品揃えが変更されるようになります。
 UI/Shop/LockedNoChange=固定している間は品揃えが変更されません。
@@ -153,16 +157,27 @@ UI/Shop/Price/USD={0}米ドル
 
 UI/Banned/Title=バンされました
 UI/Banned/Instructions=あなたのアカウントはバンされました。
-UI/Banned/TimeLeft=このバンは{0:time:Left}後に解除されます。
+UI/Banned/TimeLeft=このバンは{0:time}後に解除されます。
 UI/Banned/Permanent=このバンは永久です。
 UI/Banned/Account=アカウント: {0}
 
 UI/DailyChallenge/Title=チャレンジ
 UI/DailyChallenge/Button=チャレンジ
 UI/DailyChallenge/Instructions=この敵を倒せ:
-UI/DailyChallenge/TimeLeft=チャレンジは{0:time:Left}後に変更されます。
+UI/DailyChallenge/TimeLeft=チャレンジは{0:time}後に変更されます。
 UI/DailyChallenge/Claimed=獲得済み
 UI/DailyChallenge/SupportersOnly=サポーターにのみチャレンジが利用可能です。
+
+UI/Bonus/Title=ボーナス
+UI/Bonus/Button=ボーナス
+UI/Bonus/Instructions=追加の報酬を得よう
+UI/Bonus/Pill/Label={0}倍
+UI/Bonus/Delay={0:time}後に再びボーナスを有効にできます。
+UI/Bonus/CurrentlyActive={0:time}の間ボーナスが有効です。
+UI/Bonus/Available=ボーナスを有効にできます。{0:time}の間持続します。
+UI/Bonus/AvailableExpiration=ボーナスを有効にしない場合、{0:time}後にリセットされます。
+UI/Bonus/Activate=有効
+UI/Bonus/Activate/Setting=自動的に有効にする
 
 UI/Petal/Name={#Petals/{0:base}/Name}
 UI/Petal/SortName={#Petals/{0:base}/Name}
@@ -207,12 +222,12 @@ UI/Absorb/Instructions=花びらを吸収して経験値を得られます<n/><c
 UI/CoinCraft/Title=取引
 UI/CoinCraft/Button=取引
 UI/CoinCraft/Instruction=花びらを同じレアリティのコインと取引できます。
-UI/CoinCraft/Delay={0:time:Left}後に再び取引できます。
+UI/CoinCraft/Delay={0:time}後に再び取引できます。
 
 UI/OracleCraft/Title=オラクル
 UI/OracleCraft/Button=クラフト
 UI/OracleCraft/Instruction=オラクルはそれに見合った対価でクラフトを保証します。
-UI/OracleCraft/Delay={0:time:Left}後に再びクラフトできます。
+UI/OracleCraft/Delay={0:time}後に再びクラフトできます。
 
 UI/Plinko/Title=プリンコ
 UI/Plinko/Auto=自動
@@ -265,7 +280,9 @@ UI/Settings/TouchControls=タッチ操作
 
 UI/Settings/KeyboardMovement=キーボード移動
 
-UI/Settings/MovementHelper=Movement helper
+UI/Settings/MovementHelper=予測線
+
+UI/Settings/AutoSearchPetals=持ち物を開ける時に花びらを探す
 
 UI/Settings/FixedJoystick=ジョイスティック固定
 

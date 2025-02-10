@@ -1,4 +1,4 @@
-Talents/crafting/Name=作成する
+Talents/crafting/Name=作成
 Talents/crafting/Description=<c val="{0:rarity:color}">{#Rarities/{0:rarity}/Name}</c>の花びらを作成する能力が解禁される。
 
 Talents/crafting_unusual/Name={#Talents/crafting/Name}
@@ -79,7 +79,7 @@ Talents/luck3/Description={#Talents/luck/Description}
 Talents/luck4/Name={#Talents/luck/Name}
 Talents/luck4/Description={#Talents/luck/Description}
 
-Talents/medic/Name=治療
+Talents/medic/Name=医者
 Talents/medic/Description=あなたの花びらの{#Flower/Attribute/HealingNoColon}が{0:perc}%増える。<n/>味方への回復量も増える。
 
 Talents/medic1/Name={#Talents/medic/Name}
@@ -133,28 +133,28 @@ Talents/summoner7/Description={#Talents/summoner/Description}
 Talents/summoner8/Name={#Talents/summoner/Name}
 Talents/summoner8/Description={#Talents/summoner/Description}
 
-Talents/reload1/Name=リロード
+Talents/reload1/Name=再生成
 Talents/reload1/Description=花びらの再生時間を{0:perc}%短くする。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload2/Name=リロード
+Talents/reload2/Name=再生成
 Talents/reload2/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload3/Name=リロード
+Talents/reload3/Name=再生成
 Talents/reload3/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload4/Name=リロード
+Talents/reload4/Name=再生成
 Talents/reload4/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒に短くなる。
 
-Talents/reload5/Name=リロード
+Talents/reload5/Name=再生成
 Talents/reload5/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。<n/>花びらを入れ替える時の最小再生時間が{3}秒から{2}秒になる。
 
-Talents/reload6/Name=リロード
+Talents/reload6/Name=再生成
 Talents/reload6/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。
 
-Talents/reload7/Name=リロード
+Talents/reload7/Name=再生成
 Talents/reload7/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。
 
-Talents/reload8/Name=リロード
+Talents/reload8/Name=再生成
 Talents/reload8/Description=花びらの再生時間の短縮が{1:perc}%から{0:perc}%になる。
 
 Talents/body_damage/Name=鋭さ

@@ -95,7 +95,7 @@ Achievements/27/Description=レベル{0}に到達する。
 Achievements/28/Name=ごみの山
 Achievements/28/Description=クラフトで{0:tooltip}枚の花びらを失う。
 
-Achievements/29/Name=大手クラフター
+Achievements/29/Name=大量作成者
 Achievements/29/Description=花びらを{0:tooltip}枚クラフトする。
 
 Achievements/30/Name=砂漠
@@ -413,7 +413,7 @@ Achievements/133/Description=チップを{0}枚Plinkoに挿れる。
 Achievements/134/Name=ジャックポット！
 Achievements/134/Description=Plinkoでジャックポットを当てる。
 
-Achievements/135/Name=浪費家
+Achievements/135/Name=大博打
 Achievements/135/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をPlinkoに挿れる。
 
 Achievements/136/Name=全てを見通す者

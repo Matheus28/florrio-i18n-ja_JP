@@ -100,7 +100,7 @@ UI/Changelog/Bottom=古い変更履歴は利用できません。
 
 UI/Inventory/Title=持ち物
 UI/Inventory/Stack=重ねる
-UI/Inventory/Instructions=花びらをドラッグして装備する
+UI/Inventory/Instructions=花びらをドラッグして装備します
 UI/Inventory/Speed=速度
 UI/Inventory/Rarity={#UI/Petal/Rarity}
 
@@ -283,14 +283,14 @@ UI/Settings/TouchControls=タッチ操作
 
 UI/Settings/KeyboardMovement=キーボード移動
 
-UI/Settings/MovementHelper=予測線
+UI/Settings/MovementHelper=移動予測線
 
 UI/Settings/AutoSearchPetals=持ち物を開ける時に花びらを探す
 
 UI/Settings/FixedJoystick=ジョイスティック固定
 
 UI/Settings/AutoSaveLoadout=装備を自動保存する
-UI/Settings/AutoSaveLoadout/Help=無効にした場合、装備を保存する時はOキーを押す
+UI/Settings/AutoSaveLoadout/Help=無効にした場合、装備を保存する時はOキーを押します
 
 UI/Settings/PrivacyPolicy=プライバシーポリシー
 UI/Settings/TermsOfService=利用規約

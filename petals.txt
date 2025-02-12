@@ -116,7 +116,7 @@ Petals/magnet/Description=拾得物の回収範囲を広げる。
 
 Petals/yggdrasil/Name=ユグドラシル
 Petals/yggdrasil/FullName=ユグドラシル
-Petals/yggdrasil/Description=世界樹の木からの乾いた葉。<n/>死者を甦らせることができると噂されている。
+Petals/yggdrasil/Description=世界樹の木から枯れ落ちた葉。<n/>死者を甦らせることができると噂されている。
 
 Petals/starfish/Name=ヒトデ
 Petals/starfish/FullName=ヒトデ
@@ -156,7 +156,7 @@ Petals/uranium/Description=断続的に放射線を放出する。<n/>他の花�
 
 Petals/sponge/Name=スポンジ
 Petals/sponge/FullName=スポンジ
-Petals/sponge/Description=受けたダメージを一定時間にかけて分散する。<n/>壊された時、残りのダメージを一度に受ける。<n/>{#UI/Attribute/PoisonColored}ダメージは遅延できない。
+Petals/sponge/Description=受けたダメージを一定時間にかけて分散する。<n/>壊された時、残りのダメージを一度に受ける。<n/>{#Attribute/PoisonNoColon}ダメージは遅延できない。
 
 Petals/soil/Name=土壌
 Petals/soil/FullName=土壌
@@ -212,7 +212,7 @@ Petals/relic/Description=奇妙な遺物。最大体力を大幅に増加させ�
 
 Petals/lotus/Name=蓮
 Petals/lotus/FullName=蓮
-Petals/lotus/Description=受ける{#UI/Attribute/PoisonColored}ダメージを吸収する。
+Petals/lotus/Description=受ける{#Attribute/PoisonNoColon}ダメージを吸収する。
 
 Petals/bulb/Name=電球
 Petals/bulb/FullName=光る電球
@@ -300,7 +300,7 @@ Petals/chip/Description=オールイン。
 
 Petals/card/Name=カード
 Petals/card/FullName=カード
-Petals/card/Description=トランプ。マークがあると思われる。
+Petals/card/Description=トランプ。マークがあるようだ。
 
 Petals/moon/Name=月
 Petals/moon/FullName=月の花
@@ -308,7 +308,7 @@ Petals/moon/Description=こいつはとても大きく、あなたの花びら�
 
 Petals/privet/Name=イボタノキ
 Petals/privet/FullName=イボタノキの果実
-Petals/privet/Description=与えている{#UI/Attribute/PoisonColored}ダメージ毎秒に応じて追加の{#UI/Attribute/PoisonColored}ダメージを与える。
+Petals/privet/Description=与えている{#Attribute/PoisonNoColon}ダメージ毎秒に応じて追加の{#Attribute/PoisonNoColon}ダメージを与える。
 
 Petals/glass/Name=硝子
 Petals/glass/FullName=硝子

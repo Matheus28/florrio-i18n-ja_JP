@@ -40,7 +40,7 @@ Mob/Attribute/Evasion=<c val="{#Colors/generic}">回避率:</c> {0:perc}%
 
 Petal/Attribute/Health=<c val="{#Colors/health}">体力:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
-Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">電撃:</c> {0:tooltip} <c val="{#Colors/lightning}">(lightning)</c>
+Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}~{1:tooltip}
 Petal/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">回転速度:</c> +毎秒{0:tooltip}ラジアン
@@ -72,8 +72,8 @@ Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">花の半径:</c> +{0:to
 Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">ダメージの内の回復割合:</c> {0:perc}%
 Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻撃距離:</c> +{0:tooltip}
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
-Petal/Attribute/Spawn1=<c val="{#Colors/generic}">Spawn:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
-Petal/Attribute/SpawnN=<c val="{#Colors/generic}">Spawn:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/Spawn1=<c val="{#Colors/generic}">召喚:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnN=<c val="{#Colors/generic}">召喚:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/Luck=<c val="{#Colors/generic}">運:</c> +{0:tooltip}ポイント
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">移動速度:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">回復ボーナス:</c> +{0:perc}%

@@ -192,17 +192,20 @@ Mobs/wasp_hel/Description=別次元に現れる惨劇。
 Mobs/wasp_hel/Spawn=異次元から恐ろしい震動が来るのを感じる...
 
 Mobs/trader/Name=行商人
+Mobs/trader/Description= 
 
 Mobs/gambler/Name=ギャンブラー
 Mobs/gambler/Description=これはあなたにも起こりうる。
 Mobs/gambler/Spawn=誰かが微かに囁くのが聞こえる...「あと...もう1ゲームだけ...」
 
 Mobs/oracle/Name=オラクル
+Mobs/oracle/Description= 
 
 Mobs/firefly_magic/Name=蛍
 Mobs/firefly_magic/Description=こいつには何か魔法のようなものがある。
 
 Mobs/titan/Name=巨人
+Mobs/titan/Description= 
 
 Mobs/beetle_nazar/Name=甲虫
 Mobs/beetle_nazar/Description=こいつは違う模様を持っている...何を意味してるんだろう？

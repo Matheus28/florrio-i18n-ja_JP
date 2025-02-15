@@ -385,3 +385,7 @@ Petals/mjolnir/unique/Description=唯一無二の宇宙で最も強力なハン�
 Petals/mecha_missile/Name=ミサイル
 Petals/mecha_missile/FullName=メカミサイル
 Petals/mecha_missile/Description=捉えた。
+
+Petals/wax/Name=蝋
+Petals/wax/FullName=蝋
+Petals/wax/Description=何処から来たのかは聞かないお約束だ。

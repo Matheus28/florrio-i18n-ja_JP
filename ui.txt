@@ -289,6 +289,9 @@ UI/Settings/AutoSearchPetals=持ち物を開ける時に花びらを探す
 
 UI/Settings/FixedJoystick=ジョイスティック固定
 
+UI/Settings/InvertAttack=攻撃状態を反転する
+UI/Settings/InvertDefend=防御状態を反転する
+
 UI/Settings/AutoSaveLoadout=装備を自動保存する
 UI/Settings/AutoSaveLoadout/Help=無効にした場合、装備を保存する時はOキーを押します
 

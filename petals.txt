@@ -389,3 +389,7 @@ Petals/mecha_missile/Description=捉えた。
 Petals/wax/Name=蝋
 Petals/wax/FullName=蝋
 Petals/wax/Description=何処から来たのかは聞かないお約束だ。
+
+Petals/golden_leaf/Name=葉
+Petals/golden_leaf/FullName=金の葉
+Petals/golden_leaf/Description=とても特別な葉、あなたの他の花びらがより早く使えるだろう。

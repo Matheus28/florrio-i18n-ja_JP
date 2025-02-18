@@ -67,7 +67,7 @@ Chat/Command/unblock-all/Args=
 Chat/Command/unblock-all/Description=あなたのブロックリストにいる全員のブロックを解除します
 
 Chat/Command/rot-speed/Args=<value>
-Chat/Command/rot-speed/Description=Set petal rotation speed, from 0.0 to 1.0
+Chat/Command/rot-speed/Description=花びらの回転速度を0.0から1.0までの間で設定します
 
 Chat/Command/print-players/Args=
 Chat/Command/print-players/Description=あなたの近くにいるプレイヤーのアカウントidの一覧を表示します

@@ -224,3 +224,6 @@ Mobs/wasp_mecha/Description=彼らは敵対モードです。
 
 Mobs/spider_mecha/Name=蜘蛛
 Mobs/spider_mecha/Description=不気味な機械だ。
+
+Mobs/leafbug_shiny/Name=葉虫
+Mobs/leafbug_shiny/Description=こいつには特別な色が塗られている...

@@ -393,3 +393,11 @@ Petals/wax/Description=何処から来たのかは聞かないお約束だ。
 Petals/golden_leaf/Name=葉
 Petals/golden_leaf/FullName=金の葉
 Petals/golden_leaf/Description=とても特別な葉、あなたの他の花びらがより早く使えるだろう。
+
+Petals/cog/Name=歯車
+Petals/cog/FullName=歯車
+Petals/cog/Description=あまり用をなすようには見えない...
+
+Petals/monstera/Name=モンステラ
+Petals/monstera/FullName=モンステラ
+Petals/monstera/Description=近くの花を回復する。<n/>花びらへの距離が遠くなるにつれて、効果は薄れる。

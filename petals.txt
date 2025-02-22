@@ -381,7 +381,7 @@ Petals/mjolnir/not-unique/Description=恐らくこれを偉大なものに鍛造
 Petals/mjolnir/unique/Name=ミョルニル
 Petals/mjolnir/unique/FullName=ミョルニル
 Petals/mjolnir/unique/Description=唯一無二の宇宙で最も強力なハンマー。
-	
+
 Petals/mecha_missile/Name=ミサイル
 Petals/mecha_missile/FullName=メカミサイル
 Petals/mecha_missile/Description=捉えた。
@@ -401,3 +401,7 @@ Petals/cog/Description=あまり用をなすようには見えない...
 Petals/monstera/Name=モンステラ
 Petals/monstera/FullName=モンステラ
 Petals/monstera/Description=近くの花を回復する。<n/>花びらへの距離が遠くなるにつれて、効果は薄れる。
+
+Petals/mecha_antennae/Name=アンテナ
+Petals/mecha_antennae/FullName=メカアンテナ
+Petals/mecha_antennae/Description=あなたの花がより遠くの敵を感じ取れるようにする。<n/>そして上部で赤いライトが点滅している。

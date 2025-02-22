@@ -109,3 +109,4 @@ Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">維持コスト:<
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">{0:perc}%の確率で生き物が追加の拾得物を落とす。</c>
 Petal/Attribute/Reload=<c val="{#Colors/generic}">再生時間:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">犠牲者はヘルヘイムで{0:time}動けなくなる。</c>
+Petal/Attribute/Controls=<c val="{#Colors/generic}">操作可能:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})

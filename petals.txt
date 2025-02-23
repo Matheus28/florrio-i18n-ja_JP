@@ -405,3 +405,7 @@ Petals/monstera/Description=近くの花を回復する。<n/>花びらへの距
 Petals/mecha_antennae/Name=アンテナ
 Petals/mecha_antennae/FullName=メカアンテナ
 Petals/mecha_antennae/Description=あなたの花がより遠くの敵を感じ取れるようにする。<n/>そして上部で赤いライトが点滅している。
+
+Petals/laser/Name=レーザー
+Petals/laser/FullName=レーザー
+Petals/laser/Description=ピュン　ピュン。

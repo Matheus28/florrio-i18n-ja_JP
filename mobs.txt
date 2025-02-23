@@ -227,3 +227,6 @@ Mobs/spider_mecha/Description=不気味な機械だ。
 
 Mobs/leafbug_shiny/Name=葉虫
 Mobs/leafbug_shiny/Description=こいつには特別な色が塗られている...
+
+Mobs/crab_mecha/Name=蟹
+Mobs/crab_mecha/Description=カニ博士。

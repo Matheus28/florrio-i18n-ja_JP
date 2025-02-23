@@ -42,6 +42,8 @@ Petal/Attribute/Health=<c val="{#Colors/health}">体力:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
 Petal/Attribute/DamageRange=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip}
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
 Petal/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
 Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">回転速度:</c> +毎秒{0:tooltip}ラジアン
 Petal/Attribute/Heal=<c val="{#Colors/heal}">回復:</c> {0:tooltip}

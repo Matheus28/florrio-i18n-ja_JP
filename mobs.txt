@@ -230,3 +230,6 @@ Mobs/leafbug_shiny/Description=こいつには特別な色が塗られている.
 
 Mobs/crab_mecha/Name=蟹
 Mobs/crab_mecha/Description=カニ博士。
+
+Mobs/assembler/Name=合成者
+Mobs/assembler/Description= 

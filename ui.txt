@@ -241,9 +241,9 @@ UI/UniqueCraft/Button=鍛造
 UI/UniqueCraft/Instruction=他の誰かが同じ花びらを鍛造するまでUniqueの花びらを保持することができます。<n/>また、それが起こった際にあなたのスーパー花びらは返還されます。<n/>花びらが鍛造される度にそのコストは増えていきます。
 UI/UniqueCraft/NoSupers=これを試みるためのSuperの花びらを何も持っていない。
 
-UI/AssemblerCraft/Title=合成
-UI/AssemblerCraft/Button=合成
-UI/AssemblerCraft/Instructions=特定の花びらを合成し新しい花びらを作ります。
+UI/AssemblerCraft/Title=変換
+UI/AssemblerCraft/Button=変換
+UI/AssemblerCraft/Instructions=特定の花びらを変換し新しい花びらを作ります。
 
 UI/Death/Poison=毒
 

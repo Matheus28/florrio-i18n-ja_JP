@@ -233,3 +233,6 @@ Mobs/crab_mecha/Description=カニ博士。
 
 Mobs/assembler/Name=合成者
 Mobs/assembler/Description= 
+
+Mobs/barrel/Name=樽
+Mobs/barrel/Description=どんな状況でもこれをこぼしてはいけない。<n/>今月はもう変異虫の危険は冒せない。

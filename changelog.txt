@@ -1,6 +1,9 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
+2025年 2月 23日
+	- 工場を追加しました。いくつかのものがまた追加される予定ですが、 現時点でプレイヤーは遊べるようになります。
+
 2025年 2月 6日
 	- 卵は、壊れた時のみ生き物を生み出すようになりました。
 	- 砂嵐は、花でない存在を透過するようになりました（依然としてダメージは与えます）。

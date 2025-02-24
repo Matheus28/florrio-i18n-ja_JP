@@ -1,5 +1,5 @@
 UI/Language/Name=日本語
-UI/Language/Credits=fleepoint
+UI/Language/Credits=fleepoint<n/>Houjitya
 
 UI/Title/Loading=ロード中...
 UI/Title/Connecting=接続中...
@@ -241,6 +241,10 @@ UI/UniqueCraft/Button=鍛造
 UI/UniqueCraft/Instruction=他の誰かが同じ花びらを鍛造するまでUniqueの花びらを保持することができます。<n/>また、それが起こった際にあなたのスーパー花びらは返還されます。<n/>花びらが鍛造される度にそのコストは増えていきます。
 UI/UniqueCraft/NoSupers=これを試みるためのSuperの花びらを何も持っていない。
 
+UI/AssemblerCraft/Title=合成
+UI/AssemblerCraft/Button=合成
+UI/AssemblerCraft/Instructions=特定の花びらを合成し新しい花びらを作ります。
+
 UI/Death/Poison=毒
 
 UI/Settings/Title=設定
@@ -299,7 +303,7 @@ UI/Settings/AutoSaveLoadout/Help=無効にした場合、装備を保存する�
 UI/Settings/PrivacyPolicy=プライバシーポリシー
 UI/Settings/TermsOfService=利用規約
 
-UI/Credits/MadeBy=制作：{0}
+UI/Credits/MadeBy=制作: {0}
 UI/Credits/SomeIcons={0}からアイコン
 UI/Credits/SomeTiles={0}からタイル
 UI/Credits/SpecialThanks=スペシャルサンクス

@@ -73,9 +73,9 @@ UI/Damage/Evade=回避
 # When the target evades damage
 UI/Damage/Miss=ミス
 
-UI/Dummy/Last=Last: {0:tooltip}
-UI/Dummy/Total=Total: {0:tooltip}
-UI/Dummy/DPS=DPS: {0:tooltip}
+UI/Dummy/Last=前の一撃: {0:tooltip}
+UI/Dummy/Total=合計: {0:tooltip}
+UI/Dummy/DPS=ダメージ毎秒: {0:tooltip}
 
 UI/Death/Title=あなたは破壊された:
 UI/Death/NoSource=謎の存在

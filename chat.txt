@@ -169,6 +169,13 @@ Chat/Oracle/Prediction/0=ああ、預言...もはや待ったなしだ...
 Chat/Oracle/Prediction/1=言われていたことだ、今それが起こる...
 Chat/Oracle/Prediction/2=この瞬間を待っていた...
 
+Chat/Oracle/ShopPrediction/No=未来は暗すぎて伝えられない
+Chat/Oracle/ShopPrediction/Distance0=差し迫っている
+Chat/Oracle/ShopPrediction/Distance1=もうすぐ
+Chat/Oracle/ShopPrediction/Distance2=ついに
+Chat/Oracle/ShopPrediction/Distance3=もしかしたらある未来は不確定かもしれない
+Chat/Oracle/ShopPrediction/Request=オラクル、オラクルよ、{#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}についての預言をしてくれ
+
 # Target dummy says these 4 lines 1 second apart after getting damaged a lot
 Chat/TargetDummy/Damaged/1=痛い
 Chat/TargetDummy/Damaged/2=えーっと

@@ -364,7 +364,7 @@ Petals/magic_bubble/Description=物理で殴るのは魔法のない者のやり
 
 Petals/nazar/Name=ナザール
 Petals/nazar/FullName=ナザールの護符
-Petals/nazar/Description=一度だけ受けるダメージを98%軽減する。
+Petals/nazar/Description=受けるダメージをそれぞれ98%軽減する。
 
 Petals/mimic/Name=ミミック
 Petals/mimic/FullName=ミミック
@@ -409,3 +409,7 @@ Petals/mecha_antennae/Description=あなたの花がより遠くの敵を感じ�
 Petals/laser/Name=レーザー
 Petals/laser/FullName=レーザー
 Petals/laser/Description=ピュン　ピュン。
+
+Petals/domino/Name=ドミノ
+Petals/domino/FullName=ドミノ
+Petals/domino/Description=ダメージは目の数によって決まる。

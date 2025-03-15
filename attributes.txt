@@ -15,6 +15,8 @@ Mob/Attribute/HealthRange=<c val="{#Colors/health}">体力:</c> {0:tooltip}~{1:t
 Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">体力</c>
 Mob/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
 Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
+Mob/Attribute/DamagePerSecond=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip}
+Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} (毎秒{1:tooltip})
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> 毎秒{0:tooltip}
@@ -38,6 +40,8 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">連鎖数:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">回避率:</c> {0:perc}%
 
+Petal/Attribute/Reload=<c val="{#Colors/generic}">再生時間:</c> {0}
+Petal/Attribute/NumCopies=<c val="{#Colors/generic}">コピーの数:</c> {0:tooltip}
 Petal/Attribute/Health=<c val="{#Colors/health}">体力:</c> {0:tooltip}
 Petal/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
 Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
@@ -109,7 +113,7 @@ Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">電撃:</c> {0:too
 Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">召喚コスト:</c> {0:tooltip} <c val="{#Colors/mana}">マナ</c>
 Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">維持コスト:</c> 毎秒{0:tooltip} <c val="{#Colors/mana}">マナ</c>
 Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">{0:perc}%の確率で生き物が追加の拾得物を落とす。</c>
-Petal/Attribute/Reload=<c val="{#Colors/generic}">再生時間:</c> -{0:perc}%
+Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">再生時間:</c> -{0:perc}%
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">犠牲者はヘルヘイムで{0:time}動けなくなる。</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">操作可能:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">壊れている。</c>

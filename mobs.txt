@@ -236,3 +236,6 @@ Mobs/assembler/Description=
 
 Mobs/barrel/Name=樽
 Mobs/barrel/Description=どんな状況でもこれをこぼしてはいけない。<n/>今月はもう変異虫の危険は冒せない。
+
+Mobs/beetle_mummy/Name=甲虫
+Mobs/beetle_mummy/Description=こいつはもう生きられないはずのように見える...

@@ -413,3 +413,7 @@ Petals/laser/Description=ピュン　ピュン。
 Petals/domino/Name=ドミノ
 Petals/domino/FullName=ドミノ
 Petals/domino/Description=ダメージは目の数によって決まる。
+
+Petals/bandage/Name=包帯
+Petals/bandage/FullName=包帯
+Petals/bandage/Description=死ぬときに花を一定時間不死身にする。<n/>効果が切れた後はしばらく蘇生できない。

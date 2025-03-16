@@ -39,6 +39,7 @@ Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">体力吸収:</c> {0:tooltip}
 Mob/Attribute/Lightning=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">連鎖数:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">回避率:</c> {0:perc}%
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">不死身:</c> {0:tooltipTime}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">再生時間:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">コピーの数:</c> {0:tooltip}
@@ -59,6 +60,7 @@ Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">毒耐性:</c> 毎秒
 Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">追加最大体力:</c> {0:tooltip}
 Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">最大体力増加:</c> +{0:perc}%
 Petal/Attribute/Duration=<c val="{#Colors/duration}">効果時間:</c> {0:tooltipTime}
+Petal/Attribute/Duration2=<c val="{#Colors/duration}">効果時間:</c> {0:tooltipTime} + {1:tooltipTime}
 Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
 Petal/Attribute/Contents1=<c val="{#Colors/generic}">Contents:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/ContentsN=<c val="{#Colors/generic}">Contents:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
@@ -117,3 +119,5 @@ Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">再生時間:</c> -{0:perc
 Petal/Attribute/LockInHel=<c val="{#Colors/danger}">犠牲者はヘルヘイムで{0:time}動けなくなる。</c>
 Petal/Attribute/Controls=<c val="{#Colors/generic}">操作可能:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
 Petal/Attribute/Broken=<c val="{#Colors/danger}">壊れている。</c>
+Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">不死身:</c> {0:tooltipTime}
+Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">蘇生不能:</c> {0:tooltipTime}

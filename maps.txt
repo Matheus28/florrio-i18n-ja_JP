@@ -18,6 +18,8 @@ Maps/jungle/Name=ジャングル
 
 Maps/ocean/Name=海
 
+Maps/pyramid/Name=ピラミッド
+
 Maps/sewers/Name=下水道
 
 Maps/worm/Name=ワーム

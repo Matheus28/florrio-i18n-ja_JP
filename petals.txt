@@ -417,3 +417,7 @@ Petals/domino/Description=ダメージは目の数によって決まる。
 Petals/bandage/Name=包帯
 Petals/bandage/FullName=包帯
 Petals/bandage/Description=死ぬときに花を一定時間不死身にする。<n/>効果が切れた後はしばらく蘇生できない。
+
+Petals/crown/Name=冠
+Petals/crown/FullName=ファラオの冠
+Petals/crown/Description=あなたの側で戦う<c val="{#Colors/undead}">不死身の</c>甲虫を召喚する。

@@ -19,6 +19,7 @@ Maps/jungle/Name=ジャングル
 Maps/ocean/Name=海
 
 Maps/pyramid/Name=ピラミッド
+Maps/pyramid/Changing=足元の砂が動き始めた...
 
 Maps/sewers/Name=下水道
 

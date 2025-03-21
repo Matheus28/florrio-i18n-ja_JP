@@ -239,3 +239,6 @@ Mobs/barrel/Description=どんな状況でもこれをこぼしてはいけな�
 
 Mobs/beetle_mummy/Name=甲虫
 Mobs/beetle_mummy/Description=こいつはもう生きられないはずのように見える...
+
+Mobs/beetle_pharaoh/Name=甲虫
+Mobs/beetle_pharaoh/Description=あの頭部にあるものはとても価値がありそうだ...盗んでしまえ。

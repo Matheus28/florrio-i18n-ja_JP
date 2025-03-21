@@ -242,3 +242,6 @@ Mobs/beetle_mummy/Description=こいつはもう生きられないはずのよ�
 
 Mobs/beetle_pharaoh/Name=甲虫
 Mobs/beetle_pharaoh/Description=あの頭部にあるものはとても価値がありそうだ...盗んでしまえ。
+
+Mobs/tomb/Name=墓
+Mobs/tomb/Description=おお、何が中にいたのだろう？

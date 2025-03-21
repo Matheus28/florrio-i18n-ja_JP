@@ -421,3 +421,7 @@ Petals/bandage/Description=死ぬときに花を一定時間不死身にする�
 Petals/crown/Name=冠
 Petals/crown/FullName=ファラオの冠
 Petals/crown/Description=あなたの側で戦う<c val="{#Colors/undead}">不死身の</c>甲虫を召喚する。
+
+Petals/totem/Name=トーテム
+Petals/totem/FullName=トーテム
+Petals/totem/Description=敵を倒した後、一定時間体力回復を得る。

@@ -121,3 +121,4 @@ Petal/Attribute/Controls=<c val="{#Colors/generic}">操作可能:</c> {#Petals/{
 Petal/Attribute/Broken=<c val="{#Colors/danger}">壊れている。</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">不死身:</c> {0:tooltipTime}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">蘇生不能:</c> {0:tooltipTime}
+Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">体当たりダメージ:</c> -{0:perc}%

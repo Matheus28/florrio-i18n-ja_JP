@@ -10,8 +10,8 @@ Petals/rock/Name=岩
 Petals/rock/FullName=岩
 Petals/rock/Description=とても硬いが、再生に少し時間がかかる。
 
-Petals/square/Name=四角
-Petals/square/FullName=四角
+Petals/square/Name=四角形
+Petals/square/FullName=四角形
 Petals/square/Description=この形...見覚えがある...
 
 Petals/rose/Name=薔薇
@@ -425,3 +425,7 @@ Petals/crown/Description=あなたの側で戦う<c val="{#Colors/undead}">不�
 Petals/totem/Name=トーテム
 Petals/totem/FullName=トーテム
 Petals/totem/Description=敵を倒した後、一定時間体力回復を得る。
+
+Petals/triangle/Name=三角形
+Petals/triangle/FullName=三角形
+Petals/triangle/Description=装備されたこれと同じ花びらはそれぞれ追加のダメージを付与する。

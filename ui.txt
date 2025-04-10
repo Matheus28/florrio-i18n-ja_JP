@@ -244,7 +244,7 @@ UI/Plinko/Auto=自動
 
 UI/UniqueCraft/Title=鍛造
 UI/UniqueCraft/Button=鍛造
-UI/UniqueCraft/Instruction=他の誰かが同じ花びらを鍛造するまでUniqueの花びらを保持することができます。<n/>また、それが起こった際にあなたのスーパー花びらは返還されます。<n/>花びらが鍛造される度にそのコストは増えていきます。
+UI/UniqueCraft/Instructions=他の誰かが同じ花びらを鍛造するまでUniqueの花びらを保持することができます。<n/>また、それが起こった際にあなたのスーパー花びらは返還されます。<n/>花びらが鍛造される度にそのコストは増えていきます。
 UI/UniqueCraft/NoSupers=これを試みるためのSuperの花びらを何も持っていない。
 
 UI/AssemblerCraft/Title=変換

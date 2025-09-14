@@ -303,7 +303,7 @@ Petals/card/FullName=カード
 Petals/card/Description=トランプ。マークがあるようだ。
 
 Petals/moon/Name=月
-Petals/moon/FullName=月の花
+Petals/moon/FullName=月の石
 Petals/moon/Description=こいつはとても大きく、あなたの花びらがそれを周回する。<n/>結局これをどこで見つけたんだ？
 
 Petals/privet/Name=イボタノキ
@@ -429,3 +429,7 @@ Petals/totem/Description=敵を倒した後、一定時間体力回復を得る�
 Petals/triangle/Name=三角形
 Petals/triangle/FullName=三角形
 Petals/triangle/Description=装備されたこれと同じ花びらはそれぞれ追加のダメージを付与する。
+
+Petals/electric_web/Name=蜘蛛の巣
+Petals/electric_web/FullName=電気の蜘蛛の巣
+Petals/electric_web/Description=そこまで粘着質ではないけど、ちょっとした衝撃を与える。

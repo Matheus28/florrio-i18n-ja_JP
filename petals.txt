@@ -433,3 +433,7 @@ Petals/triangle/Description=装備されたこれと同じ花びらはそれぞ�
 Petals/electric_web/Name=蜘蛛の巣
 Petals/electric_web/FullName=電気の蜘蛛の巣
 Petals/electric_web/Description=そこまで粘着質ではないけど、ちょっとした衝撃を与える。
+
+Petals/sacrifice/Name=犠牲
+Petals/sacrifice/FullName=血の犠牲
+Petals/sacrifice/Description=死亡時に、もう一度戦うための敵を召喚する。<n/>敵の種類はどこで犠牲を捧げたかによる。<n/>低いレアリティの敵が湧く場所では使えない。

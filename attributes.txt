@@ -83,6 +83,9 @@ Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻撃距離:</c> +{0:too
 Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
 Petal/Attribute/Spawn1=<c val="{#Colors/generic}">召喚:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
 Petal/Attribute/SpawnN=<c val="{#Colors/generic}">召喚:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnRarity={#Petal/Attribute/SpawnRarity{0:1orN}}
+Petal/Attribute/SpawnRarity1=<c val="{#Colors/generic}">召喚レアリティ:</c> {#Rarities/{1}/NameColored}
+Petal/Attribute/SpawnRarityN=<c val="{#Colors/generic}">召喚レアリティ:</c> {0}x {#Rarities/{1}/NameColored}
 Petal/Attribute/Luck=<c val="{#Colors/generic}">運:</c> +{0:tooltip}ポイント
 Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">移動速度:</c> +{0:perc}%
 Petal/Attribute/HealBonus=<c val="{#Colors/heal}">回復ボーナス:</c> +{0:perc}%
@@ -123,3 +126,4 @@ Petal/Attribute/Broken=<c val="{#Colors/danger}">壊れている。</c>
 Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">不死身:</c> {0:tooltipTime}
 Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">蘇生不能:</c> {0:tooltipTime}
 Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">体当たりダメージ:</c> -{0:perc}%
+Petal/Attribute/PetalConsumedWhenUsed=<c val="{#Colors/danger}">花びらは使用時に消費される。</c>

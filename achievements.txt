@@ -427,3 +427,6 @@ Achievements/138/Description={#Petals/{0}/Name}を装備する。
 
 Achievements/139/Name=運が良い気がする
 Achievements/139/Description={#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}によって追加の拾得物を獲得する。
+
+Achievements/140/Name=血の犠牲
+Achievements/140/Description=血の犠牲をささげる。

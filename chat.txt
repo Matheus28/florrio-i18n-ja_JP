@@ -22,6 +22,9 @@ Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}#Mobs/{0:base}/Sp
 Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0}が出現した！
 Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0}がどこかで出現した！
 
+Chat/MobSpawnedHere/Special/sacrifice={#Mobs/AnnouncementPrefix:0}が召喚された！
+Chat/MobSpawnedSomewhere/Special/sacrifice={#Mobs/AnnouncementPrefix:0} がどこかで召喚された！
+
 Chat/MobDefeated={#Chat/MobDefeated/{1}}
 Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0}が倒された！
 Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0}が{2}によって倒された！

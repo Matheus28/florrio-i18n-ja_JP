@@ -1,1 +1,1 @@
-Drops/map=マップ
+Drops/map=地図
